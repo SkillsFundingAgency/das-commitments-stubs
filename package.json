@@ -1,0 +1,17 @@
+{
+  "name": "stub-employeraccountapi",
+  "version": "1.0.0",
+  "description": "Subbed Employer Account Api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.4",
+    "npm": "^6.14.12",
+    "pug": "^3.0.1"
+  }
+}
