@@ -16,6 +16,16 @@ _A single service encompassing multiple stubs for use by Commitments and related
     * Get Accounts by User
 * Provider Account API
     * Get Agreement endpoint
+* Reservations Outer API
+    * Get TransferValidity
+* Courses API
+    * All standards
+    * Get standard by id
+* Location Api
+    * Search
+    * Locations endpoint
+* Levy Transfer Matching inner api
+    * Get Pledge Application
 
 ## Getting started
 
