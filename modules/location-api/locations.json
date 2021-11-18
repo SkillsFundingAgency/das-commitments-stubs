@@ -1,0 +1,2322 @@
+[
+  {
+    "localAuthorityName": "Somerset",
+    "countyName": null,
+    "locationName": "Bath",
+    "location": {
+      "coordinates": [
+        51.377413,
+        -2.363453
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Bath, Somerset",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Somerset",
+    "countyName": null,
+    "locationName": "Bathavon North",
+    "location": {
+      "coordinates": [
+        51.411623,
+        -2.407995
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Bathavon North, Somerset",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Somerset",
+    "countyName": null,
+    "locationName": "Bathavon South",
+    "location": {
+      "coordinates": [
+        51.330959,
+        -2.355679
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Bathavon South, Somerset",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Somerset",
+    "countyName": null,
+    "locationName": "Bathavon West",
+    "location": {
+      "coordinates": [
+        51.347455,
+        -2.426722
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Bathavon West, Somerset",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Somerset",
+    "countyName": "Somerset",
+    "locationName": "Bathpool",
+    "location": {
+      "coordinates": [
+        51.028496,
+        -3.066216
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Bathpool, Somerset",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Somerset",
+    "countyName": null,
+    "locationName": "Bathwick",
+    "location": {
+      "coordinates": [
+        51.375629,
+        -2.324805
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Bathwick, Somerset",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "West Midlands",
+    "countyName": "West Midlands",
+    "locationName": "Birmingham",
+    "location": {
+      "coordinates": [
+        52.468725,
+        -1.877556
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Birmingham, West Midlands",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "West Yorkshire",
+    "countyName": "West Yorkshire",
+    "locationName": "Bradford",
+    "location": {
+      "coordinates": [
+        53.789099,
+        -1.750715
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Bradford, West Yorkshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Greater Manchester",
+    "countyName": "Greater Manchester",
+    "locationName": "Bradford",
+    "location": {
+      "coordinates": [
+        53.476645,
+        -2.187212
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Bradford, Greater Manchester",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Dorset",
+    "countyName": "Dorset",
+    "locationName": "Bradford Abbas",
+    "location": {
+      "coordinates": [
+        50.928016,
+        -2.588666
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Bradford Abbas, Dorset",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "West Yorkshire",
+    "countyName": "West Yorkshire",
+    "locationName": "Bradford Moor",
+    "location": {
+      "coordinates": [
+        53.798957,
+        -1.717423
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Bradford Moor, West Yorkshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Wiltshire",
+    "countyName": null,
+    "locationName": "Bradford on Avon",
+    "location": {
+      "coordinates": [
+        51.345562,
+        -2.25121
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Bradford on Avon, Wiltshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Wiltshire",
+    "countyName": null,
+    "locationName": "Bradford-on-Avon North",
+    "location": {
+      "coordinates": [
+        51.355517,
+        -2.250963
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Bradford-on-Avon North, Wiltshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Wiltshire",
+    "countyName": null,
+    "locationName": "Bradford-on-Avon South",
+    "location": {
+      "coordinates": [
+        51.338887,
+        -2.248805
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Bradford-on-Avon South, Wiltshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Somerset",
+    "countyName": "Somerset",
+    "locationName": "Bradford-on-Tone",
+    "location": {
+      "coordinates": [
+        50.99908,
+        -3.17955
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Bradford-on-Tone, Somerset",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "East Sussex",
+    "countyName": null,
+    "locationName": "Brighton and Hove",
+    "location": {
+      "coordinates": [
+        50.837312,
+        -0.161061
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Brighton and Hove, East Sussex",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Hampshire",
+    "countyName": "Hampshire",
+    "locationName": "Brighton Hill North",
+    "location": {
+      "coordinates": [
+        51.24563,
+        -1.118617
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Brighton Hill North, Hampshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Hampshire",
+    "countyName": "Hampshire",
+    "locationName": "Brighton Hill South",
+    "location": {
+      "coordinates": [
+        51.23999,
+        -1.115988
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Brighton Hill South, Hampshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Bristol",
+    "countyName": null,
+    "locationName": "Bristol",
+    "location": {
+      "coordinates": [
+        51.452967,
+        -2.576931
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Bristol, Bristol",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Cambridgeshire",
+    "countyName": "Cambridgeshire",
+    "locationName": "Cambridge",
+    "location": {
+      "coordinates": [
+        52.203206,
+        0.13971
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Cambridge, Cambridgeshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Merseyside",
+    "countyName": "Merseyside",
+    "locationName": "Cambridge",
+    "location": {
+      "coordinates": [
+        53.673688,
+        -3.016583
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Cambridge, Merseyside",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Somerset",
+    "countyName": null,
+    "locationName": "Cambridge Batch/Flax Bourton",
+    "location": {
+      "coordinates": [
+        51.42146,
+        -2.70968
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Cambridge Batch/Flax Bourton, Somerset",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Kent",
+    "countyName": "Kent",
+    "locationName": "Canterbury",
+    "location": {
+      "coordinates": [
+        51.276108,
+        1.087994
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Canterbury, Kent",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Cumbria",
+    "countyName": "Cumbria",
+    "locationName": "Carlisle",
+    "location": {
+      "coordinates": [
+        54.883737,
+        -2.955478
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Carlisle, Cumbria",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Essex",
+    "countyName": "Essex",
+    "locationName": "Chelmsford",
+    "location": {
+      "coordinates": [
+        51.735657,
+        0.484075
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Chelmsford, Essex",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Essex",
+    "countyName": "Essex",
+    "locationName": "Chelmsford Rural West",
+    "location": {
+      "coordinates": [
+        51.756406,
+        0.382373
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Chelmsford Rural West, Essex",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Cheshire",
+    "countyName": null,
+    "locationName": "Chester",
+    "location": {
+      "coordinates": [
+        53.199329,
+        -2.885381
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Chester, Cheshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Cheshire",
+    "countyName": null,
+    "locationName": "Chester City",
+    "location": {
+      "coordinates": [
+        53.190057,
+        -2.89203
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Chester City, Cheshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Derbyshire",
+    "countyName": "Derbyshire",
+    "locationName": "Chesterfield",
+    "location": {
+      "coordinates": [
+        53.24085,
+        -1.438331
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Chesterfield, Derbyshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Durham",
+    "countyName": null,
+    "locationName": "Chester-le-Street",
+    "location": {
+      "coordinates": [
+        54.856857,
+        -1.58039
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Chester-le-Street, Durham",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Durham",
+    "countyName": null,
+    "locationName": "Chester-le-Street East",
+    "location": {
+      "coordinates": [
+        54.849523,
+        -1.562432
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Chester-le-Street East, Durham",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Durham",
+    "countyName": null,
+    "locationName": "Chester-le-Street North",
+    "location": {
+      "coordinates": [
+        54.86454,
+        -1.585686
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Chester-le-Street North, Durham",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Durham",
+    "countyName": null,
+    "locationName": "Chester-le-Street South",
+    "location": {
+      "coordinates": [
+        54.842244,
+        -1.598823
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Chester-le-Street South, Durham",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Durham",
+    "countyName": null,
+    "locationName": "Chester-le-Street West Central",
+    "location": {
+      "coordinates": [
+        54.855231,
+        -1.588445
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Chester-le-Street West Central, Durham",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Oxfordshire",
+    "countyName": "Oxfordshire",
+    "locationName": "Chesterton",
+    "location": {
+      "coordinates": [
+        51.888572,
+        -1.186991
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Chesterton, Oxfordshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Gloucestershire",
+    "countyName": "Gloucestershire",
+    "locationName": "Chesterton",
+    "location": {
+      "coordinates": [
+        51.703337,
+        -1.970649
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Chesterton, Gloucestershire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Staffordshire",
+    "countyName": "Staffordshire",
+    "locationName": "Chesterton",
+    "location": {
+      "coordinates": [
+        53.048753,
+        -2.258817
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Chesterton, Staffordshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Cheshire",
+    "countyName": null,
+    "locationName": "Chester Villages",
+    "location": {
+      "coordinates": [
+        53.194833,
+        -2.826822
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Chester Villages, Cheshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "West Sussex",
+    "countyName": "West Sussex",
+    "locationName": "Chichester",
+    "location": {
+      "coordinates": [
+        50.843296,
+        -0.777763
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Chichester, West Sussex",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "West Sussex",
+    "countyName": "West Sussex",
+    "locationName": "Chichester East",
+    "location": {
+      "coordinates": [
+        50.839934,
+        -0.762555
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Chichester East, West Sussex",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "West Sussex",
+    "countyName": "West Sussex",
+    "locationName": "Chichester North",
+    "location": {
+      "coordinates": [
+        50.849937,
+        -0.777306
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Chichester North, West Sussex",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "West Sussex",
+    "countyName": "West Sussex",
+    "locationName": "Chichester South",
+    "location": {
+      "coordinates": [
+        50.831212,
+        -0.777156
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Chichester South, West Sussex",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "West Sussex",
+    "countyName": "West Sussex",
+    "locationName": "Chichester West",
+    "location": {
+      "coordinates": [
+        50.843466,
+        -0.797601
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Chichester West, West Sussex",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "West Midlands",
+    "countyName": "West Midlands",
+    "locationName": "Coventry",
+    "location": {
+      "coordinates": [
+        52.41695,
+        -1.50721
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Coventry, West Midlands",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Derbyshire",
+    "countyName": null,
+    "locationName": "Derby",
+    "location": {
+      "coordinates": [
+        52.911599,
+        -1.480903
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Derby, Derbyshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Merseyside",
+    "countyName": "Merseyside",
+    "locationName": "Derby",
+    "location": {
+      "coordinates": [
+        53.452171,
+        -2.981979
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Derby, Merseyside",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Lancashire",
+    "countyName": "Lancashire",
+    "locationName": "Derby",
+    "location": {
+      "coordinates": [
+        53.567004,
+        -2.864265
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Derby, Lancashire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Lancashire",
+    "countyName": "Lancashire",
+    "locationName": "Derby and Thornley",
+    "location": {
+      "coordinates": [
+        53.855901,
+        -2.569172
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Derby and Thornley, Lancashire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Derbyshire",
+    "countyName": "Derbyshire",
+    "locationName": "Derby Road East",
+    "location": {
+      "coordinates": [
+        52.902648,
+        -1.273821
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Derby Road East, Derbyshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Derbyshire",
+    "countyName": "Derbyshire",
+    "locationName": "Derby Road West",
+    "location": {
+      "coordinates": [
+        52.902785,
+        -1.290514
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Derby Road West, Derbyshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Durham",
+    "countyName": null,
+    "locationName": "Durham",
+    "location": {
+      "coordinates": [
+        54.784618,
+        -1.536994
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Durham, Durham",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Durham",
+    "countyName": null,
+    "locationName": "Durham South",
+    "location": {
+      "coordinates": [
+        54.754302,
+        -1.540463
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Durham South, Durham",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Cambridgeshire",
+    "countyName": "Cambridgeshire",
+    "locationName": "Ely",
+    "location": {
+      "coordinates": [
+        52.401136,
+        0.258883
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Ely, Cambridgeshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Cambridgeshire",
+    "countyName": "Cambridgeshire",
+    "locationName": "Ely East",
+    "location": {
+      "coordinates": [
+        52.389809,
+        0.289623
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Ely East, Cambridgeshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Cambridgeshire",
+    "countyName": "Cambridgeshire",
+    "locationName": "Ely North",
+    "location": {
+      "coordinates": [
+        52.418987,
+        0.277061
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Ely North, Cambridgeshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Cambridgeshire",
+    "countyName": "Cambridgeshire",
+    "locationName": "Ely South",
+    "location": {
+      "coordinates": [
+        52.387934,
+        0.23634
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Ely South, Cambridgeshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Cambridgeshire",
+    "countyName": "Cambridgeshire",
+    "locationName": "Ely West",
+    "location": {
+      "coordinates": [
+        52.40343,
+        0.254633
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Ely West, Cambridgeshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Devon",
+    "countyName": "Devon",
+    "locationName": "Exeter",
+    "location": {
+      "coordinates": [
+        50.722941,
+        -3.510408
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Exeter, Devon",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Gloucestershire",
+    "countyName": "Gloucestershire",
+    "locationName": "Gloucester",
+    "location": {
+      "coordinates": [
+        51.853796,
+        -2.229641
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Gloucester, Gloucestershire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Herefordshire",
+    "countyName": null,
+    "locationName": "Hereford",
+    "location": {
+      "coordinates": [
+        52.058051,
+        -2.708059
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Hereford, Herefordshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "East Riding of Yorkshire",
+    "countyName": null,
+    "locationName": "Kingston upon Hull",
+    "location": {
+      "coordinates": [
+        53.752027,
+        -0.439815
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Kingston upon Hull, East Riding of Yorkshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Lancashire",
+    "countyName": "Lancashire",
+    "locationName": "Lancaster",
+    "location": {
+      "coordinates": [
+        54.044313,
+        -2.802485
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Lancaster, Lancashire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Lancashire",
+    "countyName": "Lancashire",
+    "locationName": "Lancaster/Morecambe",
+    "location": {
+      "coordinates": [
+        54.066624,
+        -2.857924
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Lancaster/Morecambe, Lancashire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Greater London",
+    "countyName": "Inner London",
+    "locationName": "Lancaster Gate",
+    "location": {
+      "coordinates": [
+        51.513179,
+        -0.185409
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Lancaster Gate, Greater London",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Norfolk",
+    "countyName": "Norfolk",
+    "locationName": "Lancaster North",
+    "location": {
+      "coordinates": [
+        52.845605,
+        0.865006
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Lancaster North, Norfolk",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Norfolk",
+    "countyName": "Norfolk",
+    "locationName": "Lancaster South",
+    "location": {
+      "coordinates": [
+        52.83199,
+        0.867272
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Lancaster South, Norfolk",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "West Yorkshire",
+    "countyName": "West Yorkshire",
+    "locationName": "Leeds",
+    "location": {
+      "coordinates": [
+        53.801662,
+        -1.544848
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Leeds, West Yorkshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Kent",
+    "countyName": "Kent",
+    "locationName": "Leeds",
+    "location": {
+      "coordinates": [
+        51.240788,
+        0.614522
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Leeds, Kent",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Leicestershire",
+    "countyName": null,
+    "locationName": "Leicester",
+    "location": {
+      "coordinates": [
+        52.629399,
+        -1.12505
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Leicester, Leicestershire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Staffordshire",
+    "countyName": "Staffordshire",
+    "locationName": "Lichfield",
+    "location": {
+      "coordinates": [
+        52.683957,
+        -1.819857
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Lichfield, Staffordshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Lincolnshire",
+    "countyName": "Lincolnshire",
+    "locationName": "Lincoln",
+    "location": {
+      "coordinates": [
+        53.222555,
+        -0.54819
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Lincoln, Lincolnshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Norfolk",
+    "countyName": "Norfolk",
+    "locationName": "Lincoln",
+    "location": {
+      "coordinates": [
+        52.697281,
+        0.883995
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Lincoln, Norfolk",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Merseyside",
+    "countyName": "Merseyside",
+    "locationName": "Liverpool",
+    "location": {
+      "coordinates": [
+        53.402766,
+        -2.920209
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Liverpool, Merseyside",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Hertfordshire",
+    "countyName": "Hertfordshire",
+    "locationName": "London Colney",
+    "location": {
+      "coordinates": [
+        51.722635,
+        -0.310728
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "London Colney, Hertfordshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Greater London",
+    "countyName": "Inner London",
+    "locationName": "London Fields",
+    "location": {
+      "coordinates": [
+        51.54344,
+        -0.073318
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "London Fields, Greater London",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Greater Manchester",
+    "countyName": "Greater Manchester",
+    "locationName": "Manchester",
+    "location": {
+      "coordinates": [
+        53.470109,
+        -2.209961
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Manchester, Greater Manchester",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Tyne & Wear",
+    "countyName": "Tyne and Wear",
+    "locationName": "Newcastle upon Tyne",
+    "location": {
+      "coordinates": [
+        54.991831,
+        -1.627263
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Newcastle upon Tyne, Tyne & Wear",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Norfolk",
+    "countyName": "Norfolk",
+    "locationName": "Norwich",
+    "location": {
+      "coordinates": [
+        52.629762,
+        1.288999
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Norwich, Norfolk",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Nottinghamshire",
+    "countyName": null,
+    "locationName": "Nottingham",
+    "location": {
+      "coordinates": [
+        52.966093,
+        -1.180654
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Nottingham, Nottinghamshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Derbyshire",
+    "countyName": "Derbyshire",
+    "locationName": "Nottingham Road",
+    "location": {
+      "coordinates": [
+        52.889867,
+        -1.255247
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Nottingham Road, Derbyshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Oxfordshire",
+    "countyName": "Oxfordshire",
+    "locationName": "Oxford",
+    "location": {
+      "coordinates": [
+        51.740811,
+        -1.217524
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Oxford, Oxfordshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Cambridgeshire",
+    "countyName": null,
+    "locationName": "Peterborough",
+    "location": {
+      "coordinates": [
+        52.577156,
+        -0.24181
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Peterborough, Cambridgeshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Devon",
+    "countyName": null,
+    "locationName": "Plymouth",
+    "location": {
+      "coordinates": [
+        50.391515,
+        -4.133076
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Plymouth, Devon",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Hampshire",
+    "countyName": null,
+    "locationName": "Portsmouth",
+    "location": {
+      "coordinates": [
+        50.810968,
+        -1.072799
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Portsmouth, Hampshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Lancashire",
+    "countyName": "Lancashire",
+    "locationName": "Preston",
+    "location": {
+      "coordinates": [
+        53.767573,
+        -2.69253
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Preston, Lancashire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Greater London",
+    "countyName": "Outer London",
+    "locationName": "Preston",
+    "location": {
+      "coordinates": [
+        51.564214,
+        -0.296017
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Preston, Greater London",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Tyne & Wear",
+    "countyName": "Tyne and Wear",
+    "locationName": "Preston",
+    "location": {
+      "coordinates": [
+        55.015193,
+        -1.456823
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Preston, Tyne & Wear",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Surrey",
+    "countyName": "Surrey",
+    "locationName": "Preston",
+    "location": {
+      "coordinates": [
+        51.303501,
+        -0.227892
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Preston, Surrey",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Devon",
+    "countyName": null,
+    "locationName": "Preston",
+    "location": {
+      "coordinates": [
+        50.452766,
+        -3.579628
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Preston, Devon",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Dorset",
+    "countyName": "Dorset",
+    "locationName": "Preston",
+    "location": {
+      "coordinates": [
+        50.647897,
+        -2.417549
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Preston, Dorset",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Kent",
+    "countyName": "Kent",
+    "locationName": "Preston (Dover)",
+    "location": {
+      "coordinates": [
+        51.300299,
+        1.224851
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Preston (Dover), Kent",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "East Riding of Yorkshire",
+    "countyName": null,
+    "locationName": "Preston (East Riding of Yorkshire)",
+    "location": {
+      "coordinates": [
+        53.758009,
+        -0.200267
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Preston (East Riding of Yorkshire), East Riding of Yorkshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Hampshire",
+    "countyName": "Hampshire",
+    "locationName": "Preston Candover",
+    "location": {
+      "coordinates": [
+        51.171765,
+        -1.131354
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Preston Candover, Hampshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "East Sussex",
+    "countyName": null,
+    "locationName": "Preston Park",
+    "location": {
+      "coordinates": [
+        50.839582,
+        -0.143147
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Preston Park, East Sussex",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Lancashire",
+    "countyName": "Lancashire",
+    "locationName": "Preston Rural East",
+    "location": {
+      "coordinates": [
+        53.794298,
+        -2.638578
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Preston Rural East, Lancashire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Lancashire",
+    "countyName": "Lancashire",
+    "locationName": "Preston Rural North",
+    "location": {
+      "coordinates": [
+        53.853299,
+        -2.66275
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Preston Rural North, Lancashire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "North Yorkshire",
+    "countyName": "North Yorkshire",
+    "locationName": "Ripon",
+    "location": {
+      "coordinates": [
+        54.141121,
+        -1.530804
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Ripon, North Yorkshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "North Yorkshire",
+    "countyName": "North Yorkshire",
+    "locationName": "Ripon Minster",
+    "location": {
+      "coordinates": [
+        54.134196,
+        -1.511368
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Ripon Minster, North Yorkshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "North Yorkshire",
+    "countyName": "North Yorkshire",
+    "locationName": "Ripon Moorside",
+    "location": {
+      "coordinates": [
+        54.126072,
+        -1.532121
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Ripon Moorside, North Yorkshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "North Yorkshire",
+    "countyName": "North Yorkshire",
+    "locationName": "Ripon Spa",
+    "location": {
+      "coordinates": [
+        54.141213,
+        -1.533451
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Ripon Spa, North Yorkshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Greater Manchester",
+    "countyName": "Greater Manchester",
+    "locationName": "Salford",
+    "location": {
+      "coordinates": [
+        53.485385,
+        -2.285703
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Salford, Greater Manchester",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Warwickshire",
+    "countyName": "Warwickshire",
+    "locationName": "Salford Priors",
+    "location": {
+      "coordinates": [
+        52.158349,
+        -1.889225
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Salford Priors, Warwickshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Surrey",
+    "countyName": "Surrey",
+    "locationName": "Salfords",
+    "location": {
+      "coordinates": [
+        51.200156,
+        -0.164313
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Salfords, Surrey",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Surrey",
+    "countyName": "Surrey",
+    "locationName": "Salfords and Sidlow",
+    "location": {
+      "coordinates": [
+        51.183192,
+        -0.218172
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Salfords and Sidlow, Surrey",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Wiltshire",
+    "countyName": null,
+    "locationName": "Salisbury",
+    "location": {
+      "coordinates": [
+        51.072534,
+        -1.801197
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Salisbury, Wiltshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Wiltshire",
+    "countyName": null,
+    "locationName": "Salisbury Bemerton",
+    "location": {
+      "coordinates": [
+        51.087718,
+        -1.833257
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Salisbury Bemerton, Wiltshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Wiltshire",
+    "countyName": null,
+    "locationName": "Salisbury District Hospital",
+    "location": {
+      "coordinates": [
+        51.045311,
+        -1.788832
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Salisbury District Hospital, Wiltshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Wiltshire",
+    "countyName": null,
+    "locationName": "Salisbury Fisherton and Bemerton Village",
+    "location": {
+      "coordinates": [
+        51.076766,
+        -1.821021
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Salisbury Fisherton and Bemerton Village, Wiltshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Wiltshire",
+    "countyName": null,
+    "locationName": "Salisbury Harnham",
+    "location": {
+      "coordinates": [
+        51.055378,
+        -1.801699
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Salisbury Harnham, Wiltshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Wiltshire",
+    "countyName": null,
+    "locationName": "Salisbury St Edmund and Milford",
+    "location": {
+      "coordinates": [
+        51.071628,
+        -1.792252
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Salisbury St Edmund and Milford, Wiltshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Wiltshire",
+    "countyName": null,
+    "locationName": "Salisbury St Francis and Stratford",
+    "location": {
+      "coordinates": [
+        51.091443,
+        -1.811097
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Salisbury St Francis and Stratford, Wiltshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Wiltshire",
+    "countyName": null,
+    "locationName": "Salisbury St Mark's and Bishopdown",
+    "location": {
+      "coordinates": [
+        51.089016,
+        -1.775926
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Salisbury St Mark's and Bishopdown, Wiltshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Wiltshire",
+    "countyName": null,
+    "locationName": "Salisbury St Martin's and Cathedral",
+    "location": {
+      "coordinates": [
+        51.062686,
+        -1.794647
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Salisbury St Martin's and Cathedral, Wiltshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Wiltshire",
+    "countyName": null,
+    "locationName": "Salisbury St Paul's",
+    "location": {
+      "coordinates": [
+        51.071907,
+        -1.807994
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Salisbury St Paul's, Wiltshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "South Yorkshire",
+    "countyName": "South Yorkshire",
+    "locationName": "Sheffield",
+    "location": {
+      "coordinates": [
+        53.382608,
+        -1.458883
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Sheffield, South Yorkshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Hampshire",
+    "countyName": null,
+    "locationName": "Southampton",
+    "location": {
+      "coordinates": [
+        50.923119,
+        -1.387021
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Southampton, Hampshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Hertfordshire",
+    "countyName": "Hertfordshire",
+    "locationName": "St Albans",
+    "location": {
+      "coordinates": [
+        51.755077,
+        -0.320109
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "St Albans, Hertfordshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Tyne & Wear",
+    "countyName": "Tyne and Wear",
+    "locationName": "Sunderland",
+    "location": {
+      "coordinates": [
+        54.892279,
+        -1.445272
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Sunderland, Tyne & Wear",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Cornwall",
+    "countyName": null,
+    "locationName": "Truro",
+    "location": {
+      "coordinates": [
+        50.26371,
+        -5.061534
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Truro, Cornwall",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Cornwall",
+    "countyName": null,
+    "locationName": "Truro Boscawen",
+    "location": {
+      "coordinates": [
+        50.268507,
+        -5.047414
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Truro Boscawen, Cornwall",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Cornwall",
+    "countyName": null,
+    "locationName": "Truro Redannick",
+    "location": {
+      "coordinates": [
+        50.255592,
+        -5.05961
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Truro Redannick, Cornwall",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Cornwall",
+    "countyName": null,
+    "locationName": "Truro Tregolls",
+    "location": {
+      "coordinates": [
+        50.2608,
+        -5.035654
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Truro Tregolls, Cornwall",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Cornwall",
+    "countyName": null,
+    "locationName": "Truro Trehaverne",
+    "location": {
+      "coordinates": [
+        50.269098,
+        -5.072771
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Truro Trehaverne, Cornwall",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Warwickshire",
+    "countyName": "Warwickshire",
+    "locationName": "Warwick",
+    "location": {
+      "coordinates": [
+        52.282144,
+        -1.572294
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Warwick, Warwickshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Greater London",
+    "countyName": "Inner London",
+    "locationName": "Warwick",
+    "location": {
+      "coordinates": [
+        51.492288,
+        -0.143945
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Warwick, Greater London",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Cumbria",
+    "countyName": "Cumbria",
+    "locationName": "Warwick Bridge",
+    "location": {
+      "coordinates": [
+        54.904271,
+        -2.820282
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Warwick Bridge, Cumbria",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "West Yorkshire",
+    "countyName": "West Yorkshire",
+    "locationName": "Wakefield",
+    "location": {
+      "coordinates": [
+        53.683987,
+        -1.510097
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Wakefield, West Yorkshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "West Yorkshire",
+    "countyName": "West Yorkshire",
+    "locationName": "Wakefield East",
+    "location": {
+      "coordinates": [
+        53.683296,
+        -1.482413
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Wakefield East, West Yorkshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "West Yorkshire",
+    "countyName": "West Yorkshire",
+    "locationName": "Wakefield North",
+    "location": {
+      "coordinates": [
+        53.685008,
+        -1.518019
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Wakefield North, West Yorkshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "West Yorkshire",
+    "countyName": "West Yorkshire",
+    "locationName": "Wakefield Rural",
+    "location": {
+      "coordinates": [
+        53.629182,
+        -1.557547
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Wakefield Rural, West Yorkshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "West Yorkshire",
+    "countyName": "West Yorkshire",
+    "locationName": "Wakefield South",
+    "location": {
+      "coordinates": [
+        53.649019,
+        -1.49616
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Wakefield South, West Yorkshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "West Yorkshire",
+    "countyName": "West Yorkshire",
+    "locationName": "Wakefield West",
+    "location": {
+      "coordinates": [
+        53.671812,
+        -1.506742
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Wakefield West, West Yorkshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Somerset",
+    "countyName": "Somerset",
+    "locationName": "Wells",
+    "location": {
+      "coordinates": [
+        51.210022,
+        -2.654529
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Wells, Somerset",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Worcestershire",
+    "countyName": "Worcestershire",
+    "locationName": "Wells",
+    "location": {
+      "coordinates": [
+        52.075898,
+        -2.327343
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Wells, Worcestershire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Somerset",
+    "countyName": "Somerset",
+    "locationName": "Wells Central",
+    "location": {
+      "coordinates": [
+        51.208054,
+        -2.646213
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Wells Central, Somerset",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Norfolk",
+    "countyName": "Norfolk",
+    "locationName": "Wells-next-the-Sea",
+    "location": {
+      "coordinates": [
+        52.952824,
+        0.851798
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Wells-next-the-Sea, Norfolk",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Somerset",
+    "countyName": "Somerset",
+    "locationName": "Wells St Cuthbert's",
+    "location": {
+      "coordinates": [
+        51.204668,
+        -2.658447
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Wells St Cuthbert's, Somerset",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Somerset",
+    "countyName": "Somerset",
+    "locationName": "Wells St Thomas'",
+    "location": {
+      "coordinates": [
+        51.215907,
+        -2.644204
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Wells St Thomas', Somerset",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Devon",
+    "countyName": null,
+    "locationName": "Wellswood",
+    "location": {
+      "coordinates": [
+        50.441108,
+        -3.503106
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Wellswood, Devon",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Hampshire",
+    "countyName": "Hampshire",
+    "locationName": "Winchester",
+    "location": {
+      "coordinates": [
+        51.064409,
+        -1.316031
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Winchester, Hampshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "West Midlands",
+    "countyName": "West Midlands",
+    "locationName": "Wolverhampton",
+    "location": {
+      "coordinates": [
+        52.587076,
+        -2.130494
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Wolverhampton, West Midlands",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Worcestershire",
+    "countyName": "Worcestershire",
+    "locationName": "Worcester",
+    "location": {
+      "coordinates": [
+        52.198921,
+        -2.20517
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Worcester, Worcestershire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Greater London",
+    "countyName": "Outer London",
+    "locationName": "Worcester Park",
+    "location": {
+      "coordinates": [
+        51.380176,
+        -0.232261
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Worcester Park, Greater London",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "North Yorkshire",
+    "countyName": null,
+    "locationName": "York",
+    "location": {
+      "coordinates": [
+        53.961936,
+        -1.08357
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "York, North Yorkshire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Gloucestershire",
+    "countyName": "Gloucestershire",
+    "locationName": "Yorkley",
+    "location": {
+      "coordinates": [
+        51.756406,
+        -2.537806
+      ]
+    },
+    "postcode": null,
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Yorkley, Gloucestershire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  }
+]
