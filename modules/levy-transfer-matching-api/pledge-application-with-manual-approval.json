@@ -1,0 +1,8 @@
+{
+  "SenderEmployerAccountId": 8194,
+  "ReceiverEmployerAccountId" : 8194,
+  "Status": 3,
+  "AllowTransferRequestAutoApproval": false,
+  "TotalAmount": 50000,
+  "AmountUsed": 10000
+}
