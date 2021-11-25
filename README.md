@@ -32,9 +32,9 @@ _A single service encompassing multiple stubs for use by Commitments and related
 Running locally:
 
 * Clone this repo locally
-* Open folder in node IDE (eg. Rider)
-* Run `npm-install` to download all dependencies
-* Configure as node.js application and run `server.js`
+* Execute the `run.cmd` in the source folder
+
+_This command file in turns executes `npm install` and then starts the application._
 
 ## Usage:
 
