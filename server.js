@@ -153,6 +153,17 @@ app.get('/levy-transfer-matching-api/applications/*',(req, res) => {
     res.send(result);
 });
 
+/* Approvals */
+
+app.get('/apim-endpoints/approvals/pledgeapplications/:pledgeApplicationId',(req, res) => {
+
+    let pledgeApplicationId = req.params.pledgeApplicationId;
+
+    console.log(string.format("GetPledgeApplication {0}", pledgeApplicationId));
+
+    files.sendFile(res, '\\modules\\apim-endpoints\\approvals\\pledge-application-with-auto-approval.json');
+
+});
 
 /* Shared */
 
