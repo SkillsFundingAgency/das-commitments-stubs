@@ -165,6 +165,13 @@ app.get('/apim-endpoints/approvals/pledgeapplications/:pledgeApplicationId',(req
 
 });
 
+/* Provider relationships */
+
+app.get('/provider-relationships/*',(req, res) => {
+    files.sendResponseFile(res, req.url, req.method);
+});
+
+
 /* Shared */
 
 express.request.getFromQueryString = function(parameterName) {
