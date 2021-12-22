@@ -26,6 +26,8 @@ _A single service encompassing multiple stubs for use by Commitments and related
     * Locations endpoint
 * Levy Transfer Matching inner api
     * Get Pledge Application
+ * Provider relationships
+    * Get relationships by provider id
 
 ## Getting started
 
