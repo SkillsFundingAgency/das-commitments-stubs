@@ -29,7 +29,7 @@ _A single service encompassing multiple stubs for use by Commitments and related
 
 ## Getting started
 
-Running locally:
+Running locally (requires [node.js](https://nodejs.org/)):
 
 * Clone this repo locally
 * Execute the `run.cmd` in the source folder
