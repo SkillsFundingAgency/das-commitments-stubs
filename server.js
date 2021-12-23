@@ -8,6 +8,8 @@ const pug = require('pug');
 const files = require('./modules/shared/files.js');
 const string = require('./modules/shared/string.js');
 
+require('./modules/shared/querystring');
+
 const port = process.env.PORT || config.port;
 
 const app = express();
@@ -24,19 +26,10 @@ app.listen(port, () => {
     console.log("Server listening on port " + port);
   });
 
-/* Reservations */
+require('./modules/provider-relationships/module')(app);
+require('./modules/location-api/module')(app);
+require('./modules/apim-endpoints/reservations/module')(app);
 
-app.get('/apim-endpoints/reservations/transfers/validity',(req, res) => {
-   
-    let senderId = req.getFromQueryString("senderId");
-    let receiverId = req.getFromQueryString("receiverId");
-    let pledgeApplicationId = req.getFromQueryString("pledgeApplicationId");
-
-    console.log(string.format("Transfer validation for Sender: {0}, Receiver: {1}, PledgeApplication: {2}", senderId, receiverId, pledgeApplicationId));
-
-    files.sendFile(res, '\\modules\\apim-endpoints\\reservations\\valid-transfer.json');
-    
-});
 
 /* Provider account api */
 
@@ -92,45 +85,6 @@ app.get('/courses-api/api/courses/standards',(req, res) => {
 
 
 
-/* Location Api */
-app.get('/location-api/api/search',(req, res) => {
-
-    let query = req.getFromQueryString("query");
-    if(query === undefined) query = "";
-
-    console.log("Location search request: " + query);
-
-
-    let filename = __dirname + '\\modules\\location-api\\locations.json';
-    let locations = JSON.parse(fs.readFileSync(filename, 'utf8'));
-
-    let result = locations.filter(el => el.locationName.toLowerCase().includes(query.toLowerCase()));
-
-    let response = JSON.parse("{}");
-    response.Locations = result;
-    
-    res.header("Content-Type",'application/json');
-    res.send(response);
-});
-
-app.get('/location-api/api/locations',(req, res) => {
-
-    let locationName = req.getFromQueryString("locationName");
-    if(locationName === undefined) locationName = "";
-    let authorityName = req.getFromQueryString("authorityName");
-    if(authorityName === undefined) authorityName = "";
-
-    console.log("Locations request: " + locationName + ", " + authorityName);
-
-    let filename = __dirname + '\\modules\\location-api\\locations.json';
-    let locations = JSON.parse(fs.readFileSync(filename, 'utf8'));
-
-    let result = locations.filter(el => el.locationName === locationName && el.localAuthorityName === authorityName);
-
-    res.header("Content-Type",'application/json');
-    res.send(result[0]);
-});
-
 
 /* Employer accounts api */
 
@@ -165,21 +119,3 @@ app.get('/apim-endpoints/approvals/pledgeapplications/:pledgeApplicationId',(req
 
 });
 
-/* Provider relationships */
-
-app.get('/provider-relationships/*',(req, res) => {
-    files.sendResponseFile(res, req.url, req.method);
-});
-
-
-/* Shared */
-
-express.request.getFromQueryString = function(parameterName) {
-    for (let key in this.query)
-    {
-        if(key.toLowerCase() === parameterName.toLowerCase())
-        {
-            return this.query[key];
-        }
-    }
-};
