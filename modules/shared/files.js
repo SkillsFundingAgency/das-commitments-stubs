@@ -20,7 +20,7 @@ module.exports = {
         
         const filename = ("responses" + url.replace(/\/$/, '') + '_' + method + '.json').toLowerCase();
 
-        console.log("Processing request for " + path.join(__dirname, filename));
+        console.log("Processing request for " + path.join(root, filename));
 
         if(!fs.existsSync(filename))
         {
