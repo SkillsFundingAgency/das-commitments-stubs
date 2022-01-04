@@ -3,8 +3,6 @@ const fs = require('fs');
 
 module.exports = function(app) {
 
-
-    /* Location Api */
     app.get('/location-api/api/search',(req, res) => {
 
         let query = req.getFromQueryString("query");
