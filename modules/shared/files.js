@@ -9,7 +9,7 @@ module.exports = {
         res.header("Content-Type",'application/json');
         res.sendFile(path.join(root, filename));
     },
-    
+
     sendResponseFile :function(res, url, method) {
 
         const path = require('path');
