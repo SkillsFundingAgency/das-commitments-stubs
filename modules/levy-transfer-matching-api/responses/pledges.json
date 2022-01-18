@@ -5,13 +5,33 @@
       "id": 1,
       "accountId": 8194,
       "amount": 15000,
-      "remainingAmount": 10000
+      "remainingAmount": 10000,
+      "status": "Active",
+      "closedOn": null
     },
     {
       "id": 2,
       "accountId": 8194,
       "amount": 25000,
-      "remainingAmount": 5000
+      "remainingAmount": 5000,
+      "status": "Active",
+      "closedOn": null
+    },
+    {
+      "id": 3,
+      "accountId": 8194,
+      "amount": 12000,
+      "remainingAmount": 5000,
+      "status": "Closed",
+      "closedOn": "2021-09-03"
+    },
+    {
+      "id": 4,
+      "accountId": 8194,
+      "amount": 7000,
+      "remainingAmount": 1000,
+      "status": "Closed",
+      "closedOn": "2021-02-17"
     }
   ]
 }
