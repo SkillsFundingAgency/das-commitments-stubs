@@ -1,0 +1,20 @@
+{
+  "TotalApprenticeshipsFound": 1,
+  "Apprenticeships": [
+    {
+      "Id": 1,
+      "TransferSenderId": 8194,
+      "Uln": "2238823718",
+      "ProviderId": "10005760",
+      "ProviderName": "Test U Good",
+      "FirstName": "John",
+      "LastName": "Smith",
+      "CourseCode": "ST0264_1.1",
+      "CourseName": "Carpentry and joinery",
+      "StartDate": "2022-02-01",
+      "EndDate": "2024-01-01",
+      "Cost": 8000,
+      "PledgeApplicationId": null
+    }
+  ]
+}
