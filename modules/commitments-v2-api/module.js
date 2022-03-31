@@ -9,4 +9,14 @@ module.exports = function(app) {
         files.sendFile(res, '\\modules\\commitments-v2-api\\responses\\transfer-status.json');
     });
    
+    app.get('/commitments-v2-api/api/cohorts/accountIds', (req, res) => {
+        console.log("Commitments v2 - Cohort Account Ids");
+        files.sendFile(res, '\\modules\\commitments-v2-api\\responses\\account-ids.json');
+    });
+
+    app.get('/commitments-v2-api/api/apprenticeships', (req, res) => {
+        console.log("Commitments v2 - Get Apprenticeships");
+        files.sendFile(res, '\\modules\\commitments-v2-api\\responses\\apprenticeships.json');
+    });
+    
 };
