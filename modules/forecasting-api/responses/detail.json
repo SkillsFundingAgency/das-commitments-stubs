@@ -1,0 +1,21 @@
+{
+  "accountId": 8194,
+  "projectionStartDate": "2022-04-31",
+  "numberOfMonths": 12,
+  "breakdown": [
+    {
+      "month": 4,
+      "year": 2022,
+      "fundsIn": 2000,
+      "fundsOut": 
+        {
+          "commitments": 200,  
+          "approved-pledge-applications": 100,
+          "accepted-pledge-applications": 400,
+          "pledge-originated-commitments": 250,
+          "transfer-connections": 100
+        }
+    }
+  ]
+ 
+}
