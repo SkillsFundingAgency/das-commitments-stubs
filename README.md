@@ -45,4 +45,3 @@ This stub api runs on localhost at port 3999.
 Configure any applications so that they reference the stub, for example for accounts api:
 
 `BaseUrl: http://localhost:3999/accounts-api/api`
-
