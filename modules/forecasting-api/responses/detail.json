@@ -1,0 +1,163 @@
+{
+  "accountId": 8194,
+  "projectionStartDate": "2022-04-01",
+  "numberOfMonths": 12,
+  "breakdown": [
+    {
+      "month": 4,
+      "year": 2022,
+      "fundsIn": 2000,
+      "fundsOut": 
+        {
+          "commitments": 2000,  
+          "approved-pledge-applications": 600,
+          "accepted-pledge-applications": 8000,
+          "pledge-originated-commitments": 2500,
+          "transfer-connections": 200
+        }
+    },
+    {
+      "month": 5,
+      "year": 2022,
+      "fundsIn": 2000,
+      "fundsOut":
+      {
+        "commitments": 2000,
+        "approved-pledge-applications": 600,
+        "accepted-pledge-applications": 8000,
+        "pledge-originated-commitments": 2500,
+        "transfer-connections": 200
+      }
+    },
+    {
+      "month": 6,
+      "year": 2022,
+      "fundsIn": 2000,
+      "fundsOut":
+      {
+        "commitments": 2000,
+        "approved-pledge-applications": 600,
+        "accepted-pledge-applications": 8000,
+        "pledge-originated-commitments": 2500,
+        "transfer-connections": 200
+      }
+    },
+    {
+      "month": 7,
+      "year": 2022,
+      "fundsIn": 2000,
+      "fundsOut":
+      {
+        "commitments": 2000,
+        "approved-pledge-applications": 600,
+        "accepted-pledge-applications": 8000,
+        "pledge-originated-commitments": 2500,
+        "transfer-connections": 200
+      }
+    },
+    {
+      "month": 8,
+      "year": 2022,
+      "fundsIn": 2000,
+      "fundsOut":
+      {
+        "commitments": 2000,
+        "approved-pledge-applications": 600,
+        "accepted-pledge-applications": 8000,
+        "pledge-originated-commitments": 2500,
+        "transfer-connections": 200
+      }
+    },
+    {
+      "month": 9,
+      "year": 2022,
+      "fundsIn": 2000,
+      "fundsOut":
+      {
+        "commitments": 2000,
+        "approved-pledge-applications": 600,
+        "accepted-pledge-applications": 8000,
+        "pledge-originated-commitments": 2500,
+        "transfer-connections": 200
+      }
+    },
+    {
+      "month": 10,
+      "year": 2022,
+      "fundsIn": 2000,
+      "fundsOut":
+      {
+        "commitments": 2000,
+        "approved-pledge-applications": 600,
+        "accepted-pledge-applications": 8000,
+        "pledge-originated-commitments": 2500,
+        "transfer-connections": 200
+      }
+    },
+    {
+      "month": 11,
+      "year": 2022,
+      "fundsIn": 2000,
+      "fundsOut":
+      {
+        "commitments": 2000,
+        "approved-pledge-applications": 600,
+        "accepted-pledge-applications": 8000,
+        "pledge-originated-commitments": 2500,
+        "transfer-connections": 200
+      }
+    },
+    {
+      "month": 12,
+      "year": 2022,
+      "fundsIn": 2000,
+      "fundsOut":
+      {
+        "commitments": 2000,
+        "approved-pledge-applications": 600,
+        "accepted-pledge-applications": 8000,
+        "pledge-originated-commitments": 2500,
+        "transfer-connections": 200
+      }
+    },
+    {
+      "month": 1,
+      "year": 2023,
+      "fundsIn": 2000,
+      "fundsOut":
+      {
+        "commitments": 2000,
+        "approved-pledge-applications": 600,
+        "accepted-pledge-applications": 8000,
+        "pledge-originated-commitments": 2500,
+        "transfer-connections": 200
+      }
+    },
+    {
+      "month": 2,
+      "year": 2023,
+      "fundsIn": 2000,
+      "fundsOut":
+      {
+        "commitments": 0,
+        "approved-pledge-applications": 600,
+        "accepted-pledge-applications": 8000,
+        "pledge-originated-commitments": 2500,
+        "transfer-connections": 200
+      }
+    },
+    {
+      "month": 3,
+      "year": 2023,
+      "fundsIn": 2000,
+      "fundsOut":
+      {
+        "commitments": 0,
+        "approved-pledge-applications": 1400,
+        "accepted-pledge-applications": 10000,
+        "pledge-originated-commitments": 2500,
+        "transfer-connections": 200
+      }
+    }
+  ]
+}

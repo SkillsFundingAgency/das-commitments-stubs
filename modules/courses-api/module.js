@@ -46,4 +46,14 @@ module.exports = function(app) {
         res.header("Content-Type", 'application/json');
         res.send(resultObject);
     });
+
+    app.get('/courses-api/api/courses/frameworks', (req, res) => {
+
+        console.log("Frameworks request");
+
+        let resultObject = JSON.parse("{\"Frameworks\":[]}");
+
+        res.header("Content-Type", 'application/json');
+        res.send(resultObject);
+    });
 };

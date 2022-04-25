@@ -28,6 +28,7 @@ require('./modules/courses-api/module')(app);
 require('./modules/levy-transfer-matching-api/module')(app);
 require('./modules/accounts-api/module')(app);
 require('./modules/commitments-v2-api/module')(app);
+require('./modules/forecasting-api/module')(app);
 require('./modules/apim-endpoints/reservations/module')(app);
 require('./modules/apim-endpoints/approvals/module')(app);
 require('./modules/apim-endpoints/manage-apprenticeships/module')(app);
