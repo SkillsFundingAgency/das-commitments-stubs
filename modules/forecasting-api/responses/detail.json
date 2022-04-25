@@ -10,10 +10,10 @@
       "fundsOut": 
         {
           "commitments": 2000,  
-          "approved-pledge-applications": 1000,
-          "accepted-pledge-applications": 4000,
+          "approved-pledge-applications": 600,
+          "accepted-pledge-applications": 8000,
           "pledge-originated-commitments": 2500,
-          "transfer-connections": 1000
+          "transfer-connections": 200
         }
     },
     {
@@ -23,10 +23,10 @@
       "fundsOut":
       {
         "commitments": 2000,
-        "approved-pledge-applications": 1000,
-        "accepted-pledge-applications": 4000,
+        "approved-pledge-applications": 600,
+        "accepted-pledge-applications": 8000,
         "pledge-originated-commitments": 2500,
-        "transfer-connections": 1000
+        "transfer-connections": 200
       }
     },
     {
@@ -36,10 +36,10 @@
       "fundsOut":
       {
         "commitments": 2000,
-        "approved-pledge-applications": 1000,
-        "accepted-pledge-applications": 4000,
+        "approved-pledge-applications": 600,
+        "accepted-pledge-applications": 8000,
         "pledge-originated-commitments": 2500,
-        "transfer-connections": 1000
+        "transfer-connections": 200
       }
     },
     {
@@ -49,10 +49,10 @@
       "fundsOut":
       {
         "commitments": 2000,
-        "approved-pledge-applications": 1000,
-        "accepted-pledge-applications": 4000,
+        "approved-pledge-applications": 600,
+        "accepted-pledge-applications": 8000,
         "pledge-originated-commitments": 2500,
-        "transfer-connections": 1000
+        "transfer-connections": 200
       }
     },
     {
@@ -62,10 +62,10 @@
       "fundsOut":
       {
         "commitments": 2000,
-        "approved-pledge-applications": 1000,
-        "accepted-pledge-applications": 4000,
+        "approved-pledge-applications": 600,
+        "accepted-pledge-applications": 8000,
         "pledge-originated-commitments": 2500,
-        "transfer-connections": 1000
+        "transfer-connections": 200
       }
     },
     {
@@ -75,10 +75,10 @@
       "fundsOut":
       {
         "commitments": 2000,
-        "approved-pledge-applications": 1000,
-        "accepted-pledge-applications": 4000,
+        "approved-pledge-applications": 600,
+        "accepted-pledge-applications": 8000,
         "pledge-originated-commitments": 2500,
-        "transfer-connections": 1000
+        "transfer-connections": 200
       }
     },
     {
@@ -88,10 +88,10 @@
       "fundsOut":
       {
         "commitments": 2000,
-        "approved-pledge-applications": 1000,
-        "accepted-pledge-applications": 4000,
+        "approved-pledge-applications": 600,
+        "accepted-pledge-applications": 8000,
         "pledge-originated-commitments": 2500,
-        "transfer-connections": 1000
+        "transfer-connections": 200
       }
     },
     {
@@ -101,10 +101,10 @@
       "fundsOut":
       {
         "commitments": 2000,
-        "approved-pledge-applications": 1000,
-        "accepted-pledge-applications": 4000,
+        "approved-pledge-applications": 600,
+        "accepted-pledge-applications": 8000,
         "pledge-originated-commitments": 2500,
-        "transfer-connections": 1000
+        "transfer-connections": 200
       }
     },
     {
@@ -114,10 +114,10 @@
       "fundsOut":
       {
         "commitments": 2000,
-        "approved-pledge-applications": 1000,
-        "accepted-pledge-applications": 4000,
+        "approved-pledge-applications": 600,
+        "accepted-pledge-applications": 8000,
         "pledge-originated-commitments": 2500,
-        "transfer-connections": 1000
+        "transfer-connections": 200
       }
     },
     {
@@ -127,10 +127,10 @@
       "fundsOut":
       {
         "commitments": 2000,
-        "approved-pledge-applications": 1000,
-        "accepted-pledge-applications": 4000,
+        "approved-pledge-applications": 600,
+        "accepted-pledge-applications": 8000,
         "pledge-originated-commitments": 2500,
-        "transfer-connections": 1000
+        "transfer-connections": 200
       }
     },
     {
@@ -140,10 +140,10 @@
       "fundsOut":
       {
         "commitments": 0,
-        "approved-pledge-applications": 1000,
-        "accepted-pledge-applications": 4000,
+        "approved-pledge-applications": 600,
+        "accepted-pledge-applications": 8000,
         "pledge-originated-commitments": 2500,
-        "transfer-connections": 1000
+        "transfer-connections": 200
       }
     },
     {
@@ -153,10 +153,10 @@
       "fundsOut":
       {
         "commitments": 0,
-        "approved-pledge-applications": 1000,
-        "accepted-pledge-applications": 4000,
+        "approved-pledge-applications": 1400,
+        "accepted-pledge-applications": 10000,
         "pledge-originated-commitments": 2500,
-        "transfer-connections": 1000
+        "transfer-connections": 200
       }
     }
   ]
