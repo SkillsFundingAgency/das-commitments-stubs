@@ -18,5 +18,10 @@ module.exports = function(app) {
         console.log("Commitments v2 - Get Apprenticeships");
         files.sendFile(res, '\\modules\\commitments-v2-api\\responses\\apprenticeships.json');
     });
+
+    app.get('/commitments-v2-api/api/cohorts', (req, res) => {
+        console.log("Commitments v2 - Get Cohorts");
+        files.sendFile(res, '\\modules\\commitments-v2-api\\responses\\cohorts.json');
+    });
     
 };

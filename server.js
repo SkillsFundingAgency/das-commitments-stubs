@@ -25,6 +25,7 @@ require('./modules/provider-relationships/module')(app);
 require('./modules/location-api/module')(app);
 require('./modules/provider-account-api/module')(app);
 require('./modules/courses-api/module')(app);
+require('./modules/provider-courses-api/module')(app);
 require('./modules/levy-transfer-matching-api/module')(app);
 require('./modules/accounts-api/module')(app);
 require('./modules/commitments-v2-api/module')(app);
