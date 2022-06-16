@@ -1,5 +1,5 @@
 {
-  "StartingTransferAllowance": 220000,
+  "StartingTransferAllowance": 200000,
   "RemainingTransferAllowance": 200000,
   "DasAccountName": "Mega Corp",
   "ApprenticeshipEmployerType": "Levy"
