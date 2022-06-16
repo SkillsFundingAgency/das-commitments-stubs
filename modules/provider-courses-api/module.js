@@ -10,7 +10,7 @@ module.exports = function(app) {
 
         //console.log(string.format("Get Course Delivery {0} {1}", providerId, courseId));
 
-        if(courseId === 274) //only "abattoir worker"
+        if(courseId === "274") //only "abattoir worker"
         {
             files.sendFile(res, '\\modules\\provider-courses-api\\course-delivery-response.json');    
         }
