@@ -1,6 +1,8 @@
 [
   {
     "Id": "701",
-    "Href": "/api/accounts/mbwggd/legalentities/701"
+    "Href": "/api/accounts/mbwggd/legalentities/701",
+    "LegalEntityId": 701,
+    "AccountLegalEntityId": 701
   }
 ]
