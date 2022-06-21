@@ -10,8 +10,13 @@ module.exports = function(app) {
 
         console.log(string.format("legalEntityId {0}", legalEntityId));
 
-        files.sendFile(res, '/modules/rofjaa-api/fjaa-agency.json');
-
+        if(legalEntityId === "2818")
+        {
+            files.sendFile(res, '/modules/rofjaa-api/fjaa-agency.json');    
+        }
+        else
+        {
+            res.sendStatus(404);
+        }
     });
-
 };
