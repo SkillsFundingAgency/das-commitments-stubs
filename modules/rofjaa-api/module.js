@@ -4,11 +4,11 @@ const string = require('../shared/string');
 
 module.exports = function(app) {
 
-    app.get('/rofjaa-api/agency/:legalEntityId',(req, res) => {
+    app.get('/rofjaa-api/agencies/:legalEntityId',(req, res) => {
 
         let legalEntityId = req.params.legalEntityId;
 
-        console.log(string.format("legalEntityId {0}", legalEntityId));
+        console.log(string.format("Rofjaa Api Get LegalEntityId {0}", legalEntityId));
 
         if(legalEntityId === "2818")
         {
