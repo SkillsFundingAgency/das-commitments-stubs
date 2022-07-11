@@ -23,5 +23,15 @@ module.exports = function(app) {
         console.log("Commitments v2 - Get Cohorts");
         files.sendFile(res, '\\modules\\commitments-v2-api\\responses\\cohorts.json');
     });
-    
+
+    app.get('/commitments-v2-api/api/cohorts', (req, res) => {
+        console.log("Commitments v2 - Get Cohorts");
+        files.sendFile(res, '\\modules\\commitments-v2-api\\responses\\cohorts.json');
+    });
+
+    app.get('/commitments-v2-api/api/AccountLegalEntity/*',(req, res) => {
+        console.log("Commitments v2 - get account legal entity");
+        files.sendResponseFile(res, req.url, req.method);
+    });
+
 };

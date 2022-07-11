@@ -1,11 +1,15 @@
 [
   {
     "Id": "2817",
-    "Href": "/api/accounts/VN48RP/legalentities/2817"
+    "Href": "/api/accounts/VN48RP/legalentities/2817",
+    "LegalEntityId": 2817,
+    "AccountLegalEntityId": 2817
   },
   {
     "Id": "2818",
-    "Href": "/api/accounts/VN48RP/legalentities/2818"
+    "Href": "/api/accounts/VN48RP/legalentities/2818",
+    "LegalEntityId": 2818,
+    "AccountLegalEntityId": 2818
   }
 ]
 
