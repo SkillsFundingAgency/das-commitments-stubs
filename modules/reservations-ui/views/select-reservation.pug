@@ -1,0 +1,28 @@
+html
+    head
+        title Reservations
+        link(rel="stylesheet", href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css")
+    body
+
+    div(class="container")
+
+        div(class="jumbotron")
+            h1(class="display-4") Reservations UI Stub
+            hr(class="my-4")
+            p(class="lead")
+            
+            h3(class="display-5") Select Reservation
+
+            a(href=backUrl class="" id="back-link") Back
+
+
+            each r in reservations
+                div(class="card")
+                    div(class="card-block")
+                        div(class="card-body")
+                            h5(class="card-title") #{r.reservationTitle}
+                            strong #{r.reservationSubtitle}
+                            p(class="card-text") #{r.reservationDescription}
+                            a(href=r.reservationUrl class="btn btn-success") Use Reservation       
+                br
+        
