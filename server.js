@@ -1,4 +1,6 @@
 const config = require('./config');
+const https = require('https');
+const fs = require('fs');
 const express = require("express");
 const bodyParser = require('body-parser');
 const pug = require('pug');
@@ -9,6 +11,19 @@ const port = process.env.PORT || config.port;
 
 const app = express();
 
+https.createServer({
+    key: fs.readFileSync('certs/localhost+2-key.pem'),
+    cert: fs.readFileSync('certs/localhost+2.pem'),
+    requestCert: false,
+    rejectUnauthorized: false,
+}, app).listen(config.sslport, () => {
+    console.log("https server listening on port " + config.sslport);
+});
+
+app.listen(port, () => {
+    console.log("http server listening on port " + port);
+});
+
 app.use(bodyParser.json());
 
 app.set('view engine', 'pug');
@@ -17,9 +32,7 @@ app.get("/", (req, res) => {
     res.render('splash');
 });
 
-app.listen(port, () => {
-    console.log("Server listening on port " + port);
-  });
+
 
 require('./modules/provider-relationships/module')(app);
 require('./modules/location-api/module')(app);
@@ -34,3 +47,4 @@ require('./modules/rofjaa-api/module')(app);
 require('./modules/apim-endpoints/reservations/module')(app);
 require('./modules/apim-endpoints/approvals/module')(app);
 require('./modules/apim-endpoints/manage-apprenticeships/module')(app);
+require('./modules/reservations-ui/module')(app);

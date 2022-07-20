@@ -6,6 +6,7 @@
       <e p="node_modules\express" t="IncludeRecursive" />
       <e p="node_modules\npm" t="IncludeRecursive" />
       <e p="node_modules\pug" t="IncludeRecursive" />
+      <e p="node_modules\uuid" t="IncludeRecursive" />
     </e>
     <e p="C:\Users\foste\.Rider2019.1\config\javascript\nodejs\10.15.3\core-modules" t="IncludeRecursive" />
     <e p="C:\Users\foste\.Rider2019.1\config\javascript\nodejs\10.15.3\node-typings\node_modules\@types" t="IncludeRecursive" />
