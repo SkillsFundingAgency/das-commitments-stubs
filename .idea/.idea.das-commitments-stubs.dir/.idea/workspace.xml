@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6bfc676-abeb-4fc1-a547-3738efad6cd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/modules/reservations-ui/module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/reservations-ui/views/employer-use-reservation.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/reservations-ui/views/select-reservation.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/reservations-ui/views/use-reservation.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.das-commitments-stubs.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.das-commitments-stubs.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/provider-courses-api/course-delivery-response.json" beforeDir="false" afterPath="$PROJECT_DIR$/modules/provider-courses-api/course-delivery-response.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/provider-courses-api/regular-course-delivery-response.json" beforeDir="false" afterPath="$PROJECT_DIR$/modules/provider-courses-api/regular-course-delivery-response.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/rofjaa-api/module.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/rofjaa-api/module.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,43 +16,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/reservations-ui/module.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-457">
-              <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/levy-transfer-matching-api/module.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="4" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.js">
+        <entry file="file://$PROJECT_DIR$/modules/provider-account-api/module.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/courses-api/module.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,46 +41,69 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+            <state relative-caret-position="92">
+              <caret line="38" column="43" lean-forward="true" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/reservations-ui/views/use-reservation.pug">
+        <entry file="file://$PROJECT_DIR$/modules/rofjaa-api/module.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="64" />
+            <state relative-caret-position="285">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/provider-courses-api/course-delivery-response.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="35" selection-end-line="2" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modules/reservations-ui/views/select-reservation.pug">
+        <entry file="file://$PROJECT_DIR$/modules/provider-courses-api/regular-course-delivery-response.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+            <state relative-caret-position="15">
+              <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/reservations-ui/views/employer-use-reservation.pug">
+        <entry file="file://$PROJECT_DIR$/modules/provider-relationships/module.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+              <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/responses/accounts-api/api/accounts/vnr6p9/legalentities_get.json">
+        <entry file="file://$PROJECT_DIR$/modules/provider-courses-api/module.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="60">
+              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/responses/provider-account-api/api/account/10005077/agreement_get.json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -168,15 +167,11 @@
         <option value="$PROJECT_DIR$/modules/forecasting-api/module.js" />
         <option value="$PROJECT_DIR$/modules/commitments-v2-api/module.js" />
         <option value="$PROJECT_DIR$/modules/commitments-v2-api/responses/cohorts.json" />
-        <option value="$PROJECT_DIR$/modules/provider-courses-api/regular-course-delivery-response.json" />
         <option value="$PROJECT_DIR$/responses/accounts-api/api/accounts/4r8pwr_get.json" />
         <option value="$PROJECT_DIR$/responses/accounts-api/api/accounts/vn48rp_get.json" />
         <option value="$PROJECT_DIR$/modules/forecasting-api/responses/detail.json" />
-        <option value="$PROJECT_DIR$/modules/provider-courses-api/module.js" />
-        <option value="$PROJECT_DIR$/modules/provider-courses-api/course-delivery-response.json" />
         <option value="$PROJECT_DIR$/modules/apim-endpoints/approvals/fjaa-agency.json" />
         <option value="$PROJECT_DIR$/modules/apim-endpoints/approvals/module.js" />
-        <option value="$PROJECT_DIR$/modules/rofjaa-api/module.js" />
         <option value="$PROJECT_DIR$/responses/accounts-api/api/accounts/vn48rp/legalentities_get.json" />
         <option value="$PROJECT_DIR$/responses/accounts-api/api/accounts/vnr6p9/legalentities_get.json" />
         <option value="$PROJECT_DIR$/responses/accounts-api/api/accounts/mbwggd/legalentities_get.json" />
@@ -192,6 +187,10 @@
         <option value="$PROJECT_DIR$/modules/reservations-ui/module.js" />
         <option value="$PROJECT_DIR$/modules/reservations-ui/views/employer-use-reservation.pug" />
         <option value="$PROJECT_DIR$/modules/reservations-ui/views/select-reservation.pug" />
+        <option value="$PROJECT_DIR$/modules/provider-courses-api/module.js" />
+        <option value="$PROJECT_DIR$/modules/rofjaa-api/module.js" />
+        <option value="$PROJECT_DIR$/modules/provider-courses-api/course-delivery-response.json" />
+        <option value="$PROJECT_DIR$/modules/provider-courses-api/regular-course-delivery-response.json" />
       </list>
     </option>
   </component>
@@ -203,16 +202,14 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-15" />
-    <option name="y" value="-15" />
-    <option name="width" value="3873" />
-    <option name="height" value="2073" />
+    <option name="width" value="3875" />
+    <option name="height" value="2075" />
   </component>
   <component name="ProjectView">
     <navigator currentView="FileSystemExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer">
         <subPane>
           <expand>
@@ -229,13 +226,19 @@
               <item name="" type="161ac34:FileSystemExplorerRootNode" />
               <item name="das-commitments-stubs" type="34e6ba20:FileSystemExplorerNode" />
               <item name="modules" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="accounts-api" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="courses-api" type="34e6ba20:FileSystemExplorerNode" />
             </path>
             <path>
               <item name="" type="161ac34:FileSystemExplorerRootNode" />
               <item name="das-commitments-stubs" type="34e6ba20:FileSystemExplorerNode" />
               <item name="modules" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="levy-transfer-matching-api" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="provider-account-api" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="das-commitments-stubs" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="modules" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="provider-courses-api" type="34e6ba20:FileSystemExplorerNode" />
             </path>
             <path>
               <item name="" type="161ac34:FileSystemExplorerRootNode" />
@@ -247,56 +250,13 @@
               <item name="" type="161ac34:FileSystemExplorerRootNode" />
               <item name="das-commitments-stubs" type="34e6ba20:FileSystemExplorerNode" />
               <item name="modules" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="reservations-ui" type="34e6ba20:FileSystemExplorerNode" />
-            </path>
-            <path>
-              <item name="" type="161ac34:FileSystemExplorerRootNode" />
-              <item name="das-commitments-stubs" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="modules" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="reservations-ui" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="views" type="34e6ba20:FileSystemExplorerNode" />
-            </path>
-            <path>
-              <item name="" type="161ac34:FileSystemExplorerRootNode" />
-              <item name="das-commitments-stubs" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="modules" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="shared" type="34e6ba20:FileSystemExplorerNode" />
-            </path>
-            <path>
-              <item name="" type="161ac34:FileSystemExplorerRootNode" />
-              <item name="das-commitments-stubs" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="responses" type="34e6ba20:FileSystemExplorerNode" />
-            </path>
-            <path>
-              <item name="" type="161ac34:FileSystemExplorerRootNode" />
-              <item name="das-commitments-stubs" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="responses" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="accounts-api" type="34e6ba20:FileSystemExplorerNode" />
-            </path>
-            <path>
-              <item name="" type="161ac34:FileSystemExplorerRootNode" />
-              <item name="das-commitments-stubs" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="responses" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="accounts-api" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="api" type="34e6ba20:FileSystemExplorerNode" />
-            </path>
-            <path>
-              <item name="" type="161ac34:FileSystemExplorerRootNode" />
-              <item name="das-commitments-stubs" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="responses" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="accounts-api" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="api" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="accounts" type="34e6ba20:FileSystemExplorerNode" />
-            </path>
-            <path>
-              <item name="" type="161ac34:FileSystemExplorerRootNode" />
-              <item name="das-commitments-stubs" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="views" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="rofjaa-api" type="34e6ba20:FileSystemExplorerNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -365,11 +325,15 @@
       <workItem from="1655192564344" duration="638000" />
       <workItem from="1655383950672" duration="1934000" />
       <workItem from="1655709046778" duration="6972000" />
+      <workItem from="1657649528075" duration="5556000" />
+      <workItem from="1657867427326" duration="1318000" />
+      <workItem from="1658137433281" duration="1481000" />
+      <workItem from="1658303917464" duration="2879000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110433000" />
+    <option name="totallyTimeSpent" value="121667000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -383,14 +347,14 @@
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="829" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2917505" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30851778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.23809524" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.22969188" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4467787" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32916668" />
@@ -426,28 +390,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/modules/courses-api/module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="39" lean-forward="true" selection-end-line="48" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp.json" />
-    <entry file="file://$PROJECT_DIR$/modules/levy-transfer-matching-api/responses/pledges.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sfa-stub-ssl/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/commitments-v2-api/responses/transfer-status.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -558,16 +500,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/provider-courses-api/module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/levy-transfer-matching-api/responses/applications.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1650">
@@ -575,22 +507,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/provider-courses-api/regular-course-delivery-response.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/apim-endpoints/approvals/delivery-models.json" />
     <entry file="file://$PROJECT_DIR$/modules/apim-endpoints/approvals/fjaa-agency.json" />
-    <entry file="file://$PROJECT_DIR$/modules/provider-courses-api/course-delivery-response.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/apim-endpoints/approvals/module.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -629,16 +547,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/rofjaa-api/module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/accounts-api/module.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -646,13 +554,6 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/responses/accounts-api/api/accounts/vn48rp_get.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -667,13 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/responses/accounts-api/api/accounts/vnr6p9/legalentities_get.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -695,17 +589,13 @@
     <entry file="file://$PROJECT_DIR$/responses/accounts-api/api/AccountLegalEntity/701_get.json" />
     <entry file="file://$PROJECT_DIR$/responses/accounts-api/api/AccountLegalEntity/645_get.json" />
     <entry file="file://$PROJECT_DIR$/responses/accounts-api/api/AccountLegalEntity/2818_get.json" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/modules/shared/string.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/provider-relationships/module.js">
+    <entry file="file://$PROJECT_DIR$/modules/reservations-ui/module.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="2" selection-end-line="10" selection-end-column="2" />
+        <state relative-caret-position="2130">
+          <caret line="142" selection-start-line="142" selection-end-line="142" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -722,37 +612,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/shared/string.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/reservations-ui/module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-457">
-          <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/reservations-ui/views/employer-use-reservation.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -766,7 +636,108 @@
     <entry file="file://$PROJECT_DIR$/modules/reservations-ui/views/select-reservation.pug">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/reservations-ui/views/employer-use-reservation.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/responses/accounts-api/api/accounts/vnr6p9/legalentities_get.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/responses/accounts-api/api/accounts/vn48rp_get.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/responses/provider-account-api/api/account/10005077/agreement_get.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/shared/files.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/provider-relationships/module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="38" column="43" lean-forward="true" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/provider-account-api/module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/courses-api/module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/provider-courses-api/module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/rofjaa-api/module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/provider-courses-api/course-delivery-response.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="35" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/provider-courses-api/regular-course-delivery-response.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
         </state>
       </provider>
     </entry>
