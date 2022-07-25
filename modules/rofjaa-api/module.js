@@ -10,7 +10,7 @@ module.exports = function(app) {
 
         console.log(string.format("Rofjaa Api Get LegalEntityId {0}", legalEntityId));
 
-        if(legalEntityId === "2818") //mega corp bank
+        if(legalEntityId === "701") //positivity ltd
         {
             files.sendFile(res, '/modules/rofjaa-api/fjaa-agency.json');    
         }
