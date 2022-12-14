@@ -5,7 +5,7 @@ const files = require('../shared/files');
 
 module.exports = function(app) {
 
-    app.get('/provider-courses-api/providers/:providerId/courses/:courseId',(req, res) => {
+    app.get('/provider-courses-api/api/providers/:providerId/courses/:courseId',(req, res) => {
         
         let providerId = req.params.providerId;
         let courseId = req.params.courseId;
