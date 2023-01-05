@@ -47,11 +47,43 @@ module.exports = function(app) {
         res.send(resultObject);
     });
 
+    app.get('/courses-api/api/courses/frameworks/:frameworkId', (req, res) => {
+
+        let frameworkId = req.params.frameworkId;
+
+        let filename = __dirname + '\\frameworks.json';
+        let courseData = JSON.parse(fs.readFileSync(filename, 'utf8'));
+
+        let result = courseData.filter(({Id}) => Id === frameworkId);
+
+        if (result.length === 0) {
+            res.sendStatus(404);
+            return;
+        }
+
+        res.header("Content-Type", 'application/json');
+        res.send(result[0]);
+
+    });
+
     app.get('/courses-api/api/courses/frameworks', (req, res) => {
+
+        let keyword = req.getFromQueryString("keyword");
+        if (keyword === undefined) keyword = "";
 
         console.log("Frameworks request");
 
-        let resultObject = JSON.parse("{\"Frameworks\":[]}");
+        let filename = __dirname + '\\frameworks.json';
+        let courseData = JSON.parse(fs.readFileSync(filename, 'utf8'));
+
+        let total = courseData.length;
+
+        let result = courseData.filter(({Title}) => Title.toLowerCase().includes(keyword.toLowerCase()));
+        
+        let resultObject = JSON.parse("{}");
+        resultObject.total = total;
+        resultObject.totalFiltered = result.length;
+        resultObject = result;
 
         res.header("Content-Type", 'application/json');
         res.send(resultObject);
