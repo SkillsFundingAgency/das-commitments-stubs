@@ -48,3 +48,4 @@ require('./modules/apim-endpoints/reservations/module')(app);
 require('./modules/apim-endpoints/approvals/module')(app);
 require('./modules/apim-endpoints/manage-apprenticeships/module')(app);
 require('./modules/reservations-ui/module')(app);
+require('./modules/reservations-api/module')(app);
