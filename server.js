@@ -50,3 +50,4 @@ require('./modules/apim-endpoints/manage-apprenticeships/module')(app);
 require('./modules/reservations-ui/module')(app);
 require('./modules/reservations-api/module')(app);
 require('./modules/roatp-api/module')(app);
+require('./modules/course-delivery-api/module')(app);
