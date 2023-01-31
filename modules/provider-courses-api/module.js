@@ -24,4 +24,11 @@ module.exports = function(app) {
         }
     });
 
+    app.get('/provider-courses-api/api/providers/:providerId',(req, res) => {
+
+        let providerId = req.params.providerId;
+        console.log(string.format("Provider Courses Api Get Provider {0}", providerId));
+        files.sendFile(res, '/modules/provider-courses-api/10005077.json');
+    });
+    
 };
