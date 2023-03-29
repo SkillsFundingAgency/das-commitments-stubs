@@ -10,7 +10,7 @@
   "PublicSectorDataSource": "",
   "Sector": "",
   "Agreements": [
-    /*{
+    {
       "Id": 1,
       "TemplateVersionNumber": 1,
       "Status": 2,
@@ -24,7 +24,7 @@
       "Status": 2,
       "SignedByName": null,
       "SignedDate": null
-    }*/
+    }
   ],
   "AgreementStatus": 1,
   "AgreementSignedByName": "Chris Foster",

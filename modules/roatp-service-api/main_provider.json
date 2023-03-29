@@ -1,0 +1,56 @@
+{
+   "searchResults":[
+      {
+         "id":"3c5ef9d4-930a-4b89-87ce-09bc32c7563d",
+         "providerType":{
+            "id":1,
+            "type":null,
+            "description":"Main provider (test)",
+            "createdBy":"System",
+            "createdAt":"2020-08-04T14:44:46.8471534",
+            "updatedBy":null,
+            "updatedAt":null,
+            "status":"Live"
+         },
+         "organisationType":{
+            "id":15,
+            "type":"Executive agency",
+            "description":null,
+            "createdBy":"System",
+            "createdAt":"2020-08-04T14:44:46.8481422",
+            "updatedBy":null,
+            "updatedAt":null,
+            "status":"Live"
+         },
+         "ukprn":10037482,
+         "legalName":"Something or other",
+         "tradingName":"Something or other",
+         "organisationStatus":{
+            "id":1,
+            "createdBy":"System",
+            "createdAt":"2020-08-04T14:44:46.8511384",
+            "updatedBy":null,
+            "updatedAt":null,
+            "status":"Active"
+         },
+         "statusDate":"2021-01-05T11:13:56.467",
+         "organisationData":{
+            "companyNumber":"02328559",
+            "charityNumber":null,
+            "removedReason":null,
+            "parentCompanyGuarantee":false,
+            "financialTrackRecord":true,
+            "nonLevyContract":false,
+            "startDate":"2019-06-18T00:00:00",
+            "sourceIsUKRLP":true,
+            "applicationDeterminedDate":"2021-02-08T00:00:00"
+         },
+         "createdBy":"test",
+         "createdAt":"2021-01-05T11:13:56.4666667",
+         "updatedBy":"allroatproles@test.com",
+         "updatedAt":"2021-02-08T11:35:03.6166667",
+         "status":null
+      }
+   ],
+   "totalCount":1
+}

@@ -30,5 +30,12 @@ module.exports = function(app) {
         console.log(string.format("Provider Courses Api Get Provider {0}", providerId));
         files.sendFile(res, '/modules/provider-courses-api/10005077.json');
     });
+
+    app.get('/provider-courses-api/api/providers/:providerId/courses',(req, res) => {
+
+        let providerId = req.params.providerId;
+        console.log(string.format("Course Delivery Api Get Courses for Provider {0}", providerId));
+        files.sendFile(res, '/modules/provider-courses-api/courses.json');
+    });
     
 };

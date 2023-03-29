@@ -34,4 +34,7 @@ module.exports = function(app) {
         files.sendResponseFile(res, req.url, req.method);
     });
 
+    app.get('/commitments-v2-api/api/providers/:providerId',(req, res) => {
+        files.sendResponseFile(res, req.url, req.method);
+    });
 };

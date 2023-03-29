@@ -1,0 +1,44 @@
+[
+  {
+    "providerCourseId": 2,
+    "courseName": "Installation electrician and maintenance electrician",
+    "level": 3,
+    "larsCode": 5,
+    "ifateReferenceNumber": "ST0152",
+    "standardInfoUrl": "https://www.stamford.ac.uk/course-departments/apprenticeships",
+    "contactUsPhoneNumber": "01780484300",
+    "contactUsEmail": "Paul.Ward@ieg.ac.uk",
+    "contactUsPageUrl": "https://ieg.ac.uk/contact-ieg/",
+    "isApprovedByRegulator": null,
+    "isImported": true,
+    "hasNationalDeliveryOption": null,
+    "hasHundredPercentEmployerDeliveryOption": null,
+    "hasPortableFlexiJobOption": false,
+    "version": "1.0",
+    "approvalBody": null
+  },
+  {
+    "larsCode": 274,
+    "courseName": "Abattoir worker"
+  },
+  {
+    "larsCode": 488,
+    "courseName": "Accounts or finance assistant"
+  },
+  {
+    "larsCode": 463,
+    "courseName": "Acoustics technician"
+  },
+  {
+    "larsCode": 227,
+    "courseName": "Nuclear operative"
+  },
+  {
+    "larsCode": 398,
+    "courseName": "Supply chain leadership professional (integrated degree)"
+  },
+  {
+    "larsCode": 380,
+    "courseName": "Wall and floor tiler"
+  }
+]

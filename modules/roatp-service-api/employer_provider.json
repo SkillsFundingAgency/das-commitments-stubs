@@ -1,0 +1,12 @@
+{
+  "searchResults":[
+    {
+      "id": "3c5ef9d4-930a-4b89-87ce-09bc32c7563d",
+      "providerType": {
+        "id": 2,
+        "description": "Employer provider (test)"
+      }
+    }
+  ],
+  "totalCount":1
+}
