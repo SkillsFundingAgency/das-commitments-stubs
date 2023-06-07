@@ -25,7 +25,7 @@ module.exports = function(app) {
 
     });
 
-    app.get('/apim-endpoints/approvals/datalock/statusesxxx',(req, res) => {
+/*    app.get('/apim-endpoints/approvals/datalock/statuses',(req, res) => {
 
         let sinceEventIdString = req.getFromQueryString("sinceEventId");
         if(sinceEventIdString === "") sinceEventIdString = "0";
@@ -59,7 +59,7 @@ module.exports = function(app) {
         res.header("Content-Type", 'application/json');
         res.send(resultObject);
         
-    });
+    });*/
    
     
 };

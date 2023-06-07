@@ -50,3 +50,5 @@ require('./modules/apim-endpoints/manage-apprenticeships/module')(app);
 require('./modules/reservations-ui/module')(app);
 require('./modules/reservations-api/module')(app);
 require('./modules/roatp-service-api/module')(app);
+require('./modules/employer-profiles-api/module')(app);
+require('./modules/employer-users-api/module')(app);

@@ -19,26 +19,37 @@
   },
   {
     "larsCode": 274,
-    "courseName": "Abattoir worker"
+    "courseName": "Abattoir worker",
+    "level": 3
   },
   {
     "larsCode": 488,
-    "courseName": "Accounts or finance assistant"
+    "courseName": "Accounts or finance assistant",
+    "level": 3
   },
   {
     "larsCode": 463,
-    "courseName": "Acoustics technician"
+    "courseName": "Acoustics technician",
+    "level": 3
+  },
+  {
+    "larsCode": 244,
+    "courseName": "Geospatial survey technician",
+    "level": 1
   },
   {
     "larsCode": 227,
-    "courseName": "Nuclear operative"
+    "courseName": "Nuclear operative",
+    "level": 3
   },
   {
     "larsCode": 398,
-    "courseName": "Supply chain leadership professional (integrated degree)"
+    "courseName": "Supply chain leadership professional (integrated degree)",
+    "level": 3
   },
   {
-    "larsCode": 380,
-    "courseName": "Wall and floor tiler"
+    "larsCode": 380, 
+    "courseName": "Wall and floor tiler",
+    "level": 3
   }
 ]

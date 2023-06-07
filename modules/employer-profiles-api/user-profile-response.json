@@ -1,0 +1,9 @@
+{
+  "GovUKIdentifier": "gov-uk-id",
+  "Id": "37e9761e-1dc9-42b7-9054-787794ad6442",
+  "Email": "test@test.com",
+  "FirstName": "John",
+  "LastName": "Smith",
+  "DisplayName": "John Smith",
+  "IsSuspended": false
+}
