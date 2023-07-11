@@ -11,6 +11,12 @@ module.exports = function(app) {
         files.sendFile(res, '\\modules\\reservations-api\\validation-response.json');    
     });
 
+    app.post('/reservations-api/api/Reservations/accounts/bulk-validate', (req, res) => {
+
+        console.log("Calling Bulk upload Validation endpoint");
+        files.sendFile(res, '\\modules\\reservations-api\\validation-response.json');
+    });
+
     app.post('/reservations-api/api/reservations/:id/change', (req, res) => {
 
         var id = crypto.randomBytes(16).toString("hex");
