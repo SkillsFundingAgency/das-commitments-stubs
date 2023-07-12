@@ -11,7 +11,7 @@ module.exports = function(app) {
         let filename = __dirname + '\\standards_get.json';
         let courseData = JSON.parse(fs.readFileSync(filename, 'utf8'));
 
-        let result = courseData.standards.filter(({standardUId}) => standardUId === standardId);
+        let result = courseData.standards.filter(obj => obj.standardUId === standardId || obj.larsCode == standardId);
 
         if (result.length === 0) {
             res.sendStatus(404);
