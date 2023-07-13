@@ -33,7 +33,7 @@ module.exports = function(app) {
         var bodyContent = req.body;
 
         var reservations = bodyContent.Reservations;
-        const returnList = reservations.map(({ Id, ULN }) => ({ reservationId : Id, ULN }));
+        const returnList = reservations.map(({ Id, ULN }) => ({ ReservationId : Id, ULN }));
         console.log(returnList);
 
         var response = { BulkCreateResults: returnList };
