@@ -27,4 +27,18 @@ module.exports = function(app) {
 
         res.json(response);
     });
+
+    app.post('/reservations-api/api/Reservations/accounts/bulk-create', (req, res) => {
+        console.log("Procesing bulk Reservations Create");
+        var bodyContent = req.body;
+
+        var reservations = bodyContent.Reservations;
+        const returnList = reservations.map(({ Id, ULN }) => ({ reservationId : Id, ULN }));
+        console.log(returnList);
+
+        var response = { BulkCreateResults: returnList };
+        console.log("Returning bulk Reservations");
+
+        res.json(response);
+    });
 };
