@@ -22,7 +22,7 @@ module.exports = function(app) {
         var id = crypto.randomBytes(16).toString("hex");
 
         console.log("Creating a Reservation Id", id);
-        var response = { ReservationdId: id };
+        var response = { ReservationId: id };
         console.log("Change a Reservation endpoint");
 
         res.json(response);
