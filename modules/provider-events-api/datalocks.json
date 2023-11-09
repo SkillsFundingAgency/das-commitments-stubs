@@ -1,0 +1,63 @@
+{
+  "PageNumber": 1,
+  "TotalNumberOfPages": 7,
+  "Items": [
+    {
+      "Id": 104389048,
+      "ApprenticeshipId": 2,
+      "Uln": 1361577223,
+      "IlrStandardCode": 555,
+      "IlrProgrammeType": 25,
+      "Status" : "New",
+      "ProcessDateTime": "2023-09-14T19:23",
+      "PriceEpisodeIdentifier": "25-555-31/05/2023",
+      "IlrStartDate": "2023-05-31",
+      "IlrPriceEffectiveFromDate": "2023-05-31",
+      "IlrPriceEffectiveToDate" : "2023-07-31",
+      "IlrTrainingPrice" : 5000,
+      "IlrEndpointAssessorPrice" : 1000,
+      "Errors": [],
+      "EventSource": "Submission",
+      "Periods": [],
+      "Apprenticeships": []
+    },
+    {
+      "Id": 104389049,
+      "ApprenticeshipId": 2,
+      "Uln": 1361577223,
+      "IlrStandardCode": 555,
+      "IlrProgrammeType": 25,
+      "Status" : "New",
+      "ProcessDateTime": "2023-09-14T19:23",
+      "PriceEpisodeIdentifier": "25-555-01/08/2023",
+      "IlrStartDate": "2023-05-31",
+      "IlrPriceEffectiveFromDate": "2023-05-31",
+      "IlrPriceEffectiveToDate" : "2023-07-31",
+      "IlrTrainingPrice" : 5000,
+      "IlrEndpointAssessorPrice" : 1000,
+      "Errors": [],
+      "EventSource": "Submission",
+      "Periods": [],
+      "Apprenticeships": []
+    },
+    {
+      "Id": 104389050,
+      "ApprenticeshipId": 2,
+      "Uln": 1361577223,
+      "IlrStandardCode": 555,
+      "IlrProgrammeType": 25,
+      "Status": "New",
+      "ProcessDateTime": "2023-09-14T19:23",
+      "PriceEpisodeIdentifier": "25-555-31/05/2023",
+      "IlrStartDate": "2023-05-31",
+      "IlrPriceEffectiveFromDate": "2023-05-31",
+      "IlrPriceEffectiveToDate": "2023-07-31",
+      "IlrTrainingPrice": 5000,
+      "IlrEndpointAssessorPrice": 1000,
+      "Errors": [],
+      "EventSource": "Submission",
+      "Periods": [],
+      "Apprenticeships": []
+    }
+  ]
+}

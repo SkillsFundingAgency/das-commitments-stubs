@@ -52,3 +52,4 @@ require('./modules/reservations-api/module')(app);
 require('./modules/roatp-service-api/module')(app);
 require('./modules/employer-profiles-api/module')(app);
 require('./modules/employer-users-api/module')(app);
+require('./modules/provider-events-api/module')(app);
