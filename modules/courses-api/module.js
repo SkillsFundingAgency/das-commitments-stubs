@@ -1,9 +1,22 @@
 /* Courses Api */
 
+const files = require('../shared/files');
 const fs = require('fs');
 
 module.exports = function(app) {
 
+    app.get('/courses-api/api/courses/routes', (req, res) => {
+
+        files.sendFile(res, '/modules/courses-api/routes.json');
+        
+    });
+
+    app.get('/courses-api/api/courses/levels', (req, res) => {
+
+        files.sendFile(res, '/modules/courses-api/levels.json');
+
+    });
+    
     app.get('/courses-api/api/courses/standards/:standardId', (req, res) => {
 
         let standardId = req.params.standardId;

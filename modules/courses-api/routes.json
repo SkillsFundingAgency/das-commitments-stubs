@@ -1,0 +1,64 @@
+{
+  "Routes": [
+    {
+      "Id": 1,
+      "Name": "Agriculture, environmental and animal care"
+    },
+    {
+      "Id": 2,
+      "Name": "Business and administration"
+    },
+    {
+      "Id": 3,
+      "Name": "Care services"
+    },
+    {
+      "Id": 4,
+      "Name": "Catering and hospitality"
+    },
+    {
+      "Id": 5,
+      "Name": "Construction and the built environment"
+    },
+    {
+      "Id": 6,
+      "Name": "Creative and design"
+    },
+    {
+      "Id": 7,
+      "Name": "Digital"
+    },
+    {
+      "Id": 8,
+      "Name": "Education and childcare"
+    },
+    {
+      "Id": 9,
+      "Name": "Education and early years"
+    },
+    {
+      "Id": 10,
+      "Name": "Engineering and manufacturing"
+    },
+    {
+      "Id": 11,
+      "Name": "Hair and beauty"
+    },
+    {
+      "Id": 12,
+      "Name": "Health and science"
+    },
+    {
+      "Id": 13,
+      "Name": "Legal, finance and accounting"
+    },
+    {
+      "Id": 14,
+      "Name": "Protective services"
+    },
+    {
+      "Id": 15,
+      "Name": "Transport and logistics"
+    }
+  ]
+}

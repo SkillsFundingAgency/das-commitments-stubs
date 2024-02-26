@@ -1,0 +1,23 @@
+{
+  "id": "c8fb94ca-c3d5-41f9-7221-08dc18278217",
+  "candidateId": "059c0528-8a53-40b3-b1ef-80c8fccb4aca",
+  "disabilityStatus": "",
+  "vacancyReference": "VAC10000567",
+  "status": "Draft",
+  "trainingCourseStatus": "Completed",
+  "qualificationStatus": "Completed",
+  "jobStatus": "Completed",
+  "workExperienceStatus": "InProgress",
+  "disabilityConfidenceStatus": "NotStarted",
+  "skillsAndStrengthStatus": "NotStarted",
+  "interviewAdjustmentsStatus": "NotStarted",
+  "howWillYouTravelStatus": "NotStarted",
+  "additionalQuestion2Status": "NotStarted",
+  "additionalQuestion1Status": "NotStarted",
+  "interestsStatus": "NotStarted",
+  "educationHistorySectionStatus": "NotStarted",
+  "workHistorySectionStatus": "NotStarted",
+  "applicationQuestionsSectionStatus": "NotStarted",
+  "interviewAdjustmentsSectionStatus": "NotStarted",
+  "disabilityConfidenceSectionStatus": "NotStarted"
+}
