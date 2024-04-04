@@ -41,6 +41,7 @@ require('./modules/courses-api/module')(app);
 require('./modules/provider-courses-api/module')(app);
 require('./modules/levy-transfer-matching-api/module')(app);
 require('./modules/accounts-api/module')(app);
+require('./modules/collection-calendar-api/module')(app);
 require('./modules/commitments-v2-api/module')(app);
 require('./modules/forecasting-api/module')(app);
 require('./modules/rofjaa-api/module')(app);
