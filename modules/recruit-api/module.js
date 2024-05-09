@@ -26,6 +26,25 @@ module.exports = function(app) {
     app.get("/recruit-api/api/livevacancies/:vacancyReference", (req, res) => {
         let vacancyReference = req.params.vacancyReference;
         console.log("Recruit Api: Get live vacancy " + vacancyReference);
+        
+        if(vacancyReference === "1000012333")
+        {
+            res.sendStatus(404);
+            return;
+        }
+        
         files.sendFile(res, '/modules/recruit-api/vacancy.json');
+    });
+
+    app.get("/recruit-api/api/closedvacancies/:vacancyReference", (req, res) => {
+        let vacancyReference = req.params.vacancyReference;
+        console.log("Recruit Api: Get closed vacancy " + vacancyReference);
+        files.sendFile(res, '/modules/recruit-api/closed-vacancy.json');
+    });
+    
+    app.post("/recruit-api/api/closedvacancies", (req, res) => {
+        
+        console.log("Recruit Api: Get closed vacancies");
+        files.sendFile(res, '/modules/recruit-api/closed-vacancies.json');
     });
 };

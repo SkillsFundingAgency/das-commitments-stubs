@@ -1,5 +1,6 @@
 /* Location api module */
 const fs = require('fs');
+const files = require('../shared/files');
 
 module.exports = function(app) {
 
@@ -38,6 +39,22 @@ module.exports = function(app) {
 
         res.header("Content-Type",'application/json');
         res.send(result[0]);
+    });
+
+    app.get('/location-api/api/addresses',(req, res) => {
+
+        console.log("Postcode locations request");
+        
+        files.sendFile(res, '\\modules\\location-api\\postcode-location.json');
+        
+    });
+
+    app.get('/location-api/api/postcodes',(req, res) => {
+
+        console.log("Postcode request");
+        
+        files.sendFile(res, '\\modules\\location-api\\postcode.json');
+
     });
 
 };
