@@ -5,7 +5,6 @@
       "applicationMethod": "ThroughFindAnApprenticeship",
       "closingDate": "2023-10-01T00:00:00Z",
       "description": "<ul>\r\n<li>This</li>\r\n<li>That</li>\r\n<li>The other</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>",
-      "disabilityConfident": 0,
       "employerDescription": "Super org with super career development guaranteed",
       "employerLocation": {
         "addressLine1": "White Hart House High Street",
@@ -41,7 +40,7 @@
         "ukprn": 10000528,
         "name": "BARKING AND DAGENHAM COLLEGE"
       },
-      "vacancyReference": 1000013014,
+      "vacancyReference": 1000009491,
       "wage": {
         "duration": 12,
         "durationUnit": "Month",
@@ -55,14 +54,14 @@
       "vacancyType": 0,
       "id": "ClosedVacancy_1000000005",
       "viewType": "ClosedVacancy",
-      "lastUpdated": "2023-06-26T15:42:02.97Z"
+      "lastUpdated": "2023-06-26T15:42:02.97Z",
+      "disabilityConfident": "Yes"
     },
     {
       "vacancyId": "fb03ef56-bdd5-4163-96dd-d812e7b6f694",
       "applicationMethod": "ThroughFindAnApprenticeship",
       "closingDate": "2023-10-01T00:00:00Z",
       "description": "An awesome opportunity that slipped by.",
-      "disabilityConfident": 0,
       "employerDescription": "Super org with super career development guaranteed",
       "employerLocation": {
         "addressLine1": "White Hart House High Street",
@@ -98,7 +97,7 @@
         "ukprn": 10000528,
         "name": "BARKING AND DAGENHAM COLLEGE"
       },
-      "vacancyReference": 9000000006,
+      "vacancyReference": 1000012333,
       "wage": {
         "duration": 12,
         "durationUnit": "Month",
@@ -110,9 +109,12 @@
       "accountPublicHashedId": "MJKLDN",
       "accountLegalEntityPublicHashedId": "XPZ8GX",
       "vacancyType": 0,
+      "additionalQuestion1": "Demo to Jayne API Training Description the character count of your writing, simply copy and paste text into\u00A0 tool To find out the word and character count of your writing simply copy Training? Description the",
+      "additionalQuestion2": "Will question mark be added?",
       "id": "ClosedVacancy_1000000006",
       "viewType": "ClosedVacancy",
-      "lastUpdated": "2023-06-26T15:42:02.97Z"
+      "lastUpdated": "2023-06-26T15:42:02.97Z",
+      "disabilityConfident": "Yes"
     }
   ]
 }

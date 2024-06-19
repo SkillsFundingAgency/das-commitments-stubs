@@ -658,7 +658,7 @@
     },
     {
       "vacancyStatus": "Live",
-      "status": "Submitted",
+      "status": "UnSuccessful",
       "dateApplied": "2022-10-06T09:43:35.317Z",
       "dateCreated": "2022-10-06T09:43:17.625Z",
       "dateUpdated": "2022-10-06T09:43:35.317Z",
@@ -670,7 +670,7 @@
       "additionalQuestion1Answer": "",
       "additionalQuestion2Answer": "",
       "notes": null,
-      "unsuccessfulReason": null,
+      "unsuccessfulReason": "We have carefully reviewed your application but sadly we have come to the conclusion that you are incapable of doing any work.",
       "withdrawnOrDeclinedReason": null,
       "skills": [],
       "candidateId": "8064b4d0-63fb-49de-a9a9-6a1fe72a6482",

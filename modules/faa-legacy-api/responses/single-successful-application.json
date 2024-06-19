@@ -1,0 +1,200 @@
+{
+  "count": 1,
+  "apprenticeships": [
+    {
+      "id": "872de5cc-4fa8-4c9e-8cf7-1a31bc23fc2c",
+      "vacancyStatus": "Live",
+      "status": "Successful",
+      "dateApplied": "2022-08-04T08:00:38.791Z",
+      "dateCreated": "2022-08-04T07:59:48.896Z",
+      "dateUpdated": "2022-08-04T08:00:38.791Z",
+      "successfulDateTime": "2024-05-01",
+      "unsuccessfulDateTime": null,
+      "dateLastViewed": null,
+      "isArchived": false,
+      "legacyApplicationId": 0,
+      "additionalQuestion1Answer": "Yes please demo it",
+      "additionalQuestion2Answer": "Yes it will, magic!",
+      "notes": null,
+      "unsuccessfulReason": null,
+      "withdrawnOrDeclinedReason": null,
+      "skills": [],
+      "candidateId": "8064b4d0-63fb-49de-a9a9-6a1fe72a6482",
+      "candidateDetails": {
+        "firstName": "Siji",
+        "middleNames": null,
+        "lastName": "Odunlami",
+        "dateOfBirth": "2000-01-01T00:00:00Z",
+        "address": {
+          "addressLine1": "7 The Quadrant",
+          "addressLine2": null,
+          "addressLine3": "COVENTRY",
+          "addressLine4": null,
+          "postcode": "CV1 2EL",
+          "uprn": null,
+          "geoPoint": {
+            "longitude": -1.512891,
+            "latitude": 52.404899,
+            "easting": 0,
+            "northing": 0
+          },
+          "town": null,
+          "county": null
+        },
+        "emailAddress": "siji.odunlami@digital.education.gov.uk",
+        "phoneNumber": "07711181906",
+        "acceptedTermsAndConditionsVersion": "Version 1"
+      },
+      "candidateInformation": {
+        "educationHistory": {
+          "institution": "Super Secondary School",
+          "fromYear": 2001,
+          "toYear": 2012
+        },
+        "qualifications": [
+          {
+            "qualificationType": "GCSE",
+            "subject": "Maths",
+            "grade": "A",
+            "isPredicted": true,
+            "year": 2012
+          },
+          {
+            "qualificationType": "GCSE",
+            "subject": "English",
+            "grade": "B",
+            "isPredicted": false,
+            "year": 2012
+          },
+          {
+            "qualificationType": "GCSE",
+            "subject": "Dual Award Science",
+            "grade": "AA",
+            "isPredicted": true,
+            "year": 2012
+          },
+          {
+            "qualificationType": "AS Level",
+            "subject": "Mathematics AS Level",
+            "grade": "A",
+            "isPredicted": true,
+            "year": 2014
+          },
+          {
+            "qualificationType": "A Level",
+            "subject": "Accountancy",
+            "grade": "C",
+            "isPredicted": false,
+            "year": 2016
+          },
+          {
+            "qualificationType": "BTEC",
+            "subject": "Computing",
+            "grade": "A",
+            "isPredicted": false,
+            "year": 2017
+          },
+          {
+            "qualificationType": "NVQ or SVQ Level 1",
+            "subject": "Computer NVQ Level 1",
+            "grade": "A",
+            "isPredicted": false,
+            "year": 2018
+          },
+          {
+            "qualificationType": "NVQ or SVQ Level 2",
+            "subject": "Computer NVQ Level 2",
+            "grade": "B",
+            "isPredicted": true,
+            "year": 2018
+          },
+          {
+            "qualificationType": "NVQ or SVQ Level 3",
+            "subject": "Computer NVQ Level 3",
+            "grade": "C",
+            "isPredicted": false,
+            "year": 2018
+          },
+          {
+            "qualificationType": "Guild of Mathematicians Super Award",
+            "subject": "Applied Mathematics",
+            "grade": "A",
+            "isPredicted": true,
+            "year": 2012
+          }
+        ],
+        "workExperience": [
+          {
+            "employer": "Mega Corp",
+            "jobTitle": "Floor sweeper-upper",
+            "description": "Cleaning and sweeping and mopping.",
+            "fromDate": "2022-05-01T00:00:00Z",
+            "toDate": "2022-08-01T00:00:00Z"
+          }
+        ],
+        "trainingCourses": [
+          {
+            "provider": "Train U Good",
+            "title": "How to mop a floor so it shines",
+            "fromDate": "2022-05-01T00:00:00Z",
+            "toDate": "2022-06-01T00:00:00Z"
+          }
+        ],
+        "aboutYou": {
+          "strengths": "These are my strengths",
+          "improvements": "These are the skills I would like to improve",
+          "hobbiesAndInterests": "These are my hobbies and interests",
+          "support": "These are my support requirements."
+        },
+        "disabilityStatus": "No"
+      },
+      "vacancy": {
+        "id": 1000013100,
+        "ukprn": 0,
+        "category": null,
+        "categoryCode": null,
+        "subCategory": null,
+        "subCategoryCode": null,
+        "accountPublicHashedId": null,
+        "accountLegalEntityPublicHashedId": null,
+        "vacancyReference": "VAC1000013100",
+        "title": "lbnsIPFiQY_28Jul2022_10461897028 apprenticeship",
+        "description": "tvJAYQfplI_EmployerDescription",
+        "startDate": "2022-11-02T00:00:00Z",
+        "closingDate": "2022-10-01T00:00:00Z",
+        "postedDate": "0001-01-01T00:00:00Z",
+        "workingWeek": null,
+        "vacancyStatus": "Unknown",
+        "vacancyLocationType": "NonNational",
+        "apprenticeshipLevel": "Unknown",
+        "skills": [],
+        "isRecruitVacancy": true,
+        "isPositiveAboutDisability": false,
+        "isEmployerAnonymous": false,
+        "anonymousEmployerName": null,
+        "numberOfPositions": 2,
+        "providerName": null,
+        "qualificationRequired": null,
+        "skillsRequired": null,
+        "isDisabilityConfident": false,
+        "longDescription": null,
+        "trainingDescription": null,
+        "outcomeDescription": null,
+        "employerContactName": null,
+        "employerContactPhone": null,
+        "employerContactEmail": null,
+        "employerWebsiteUrl": null,
+        "employerDescription": null,
+        "duration": 0,
+        "durationUnit": null,
+        "thingsToConsider": null,
+        "employerName": "SPECIALIZED APPLIANCE SERVICE LTD",
+        "applyViaEmployerWebsite": false,
+        "expectedDuration": null,
+        "location": null,
+        "qualifications": [],
+        "address": null
+      }
+    }
+  ]
+}
