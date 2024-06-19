@@ -1,0 +1,18 @@
+{
+  "username": "siji.odunlami@digital.education.gov.uk",
+  "status": "Active",
+  "roles": "Candidate",
+  "activationCode": null,
+  "activateCodeExpiry": null,
+  "activationDate": "2022-02-11T14:21:04.773Z",
+  "loginIncorrectAttempts": 0,
+  "passwordResetCode": null,
+  "passwordResetCodeExpiry": null,
+  "passwordResetIncorrectAttempts": 0,
+  "accountUnlockCode": null,
+  "accountUnlockCodeExpiry": null,
+  "lastLogin": "2024-05-08T06:50:08.386Z",
+  "lastActivity": "2022-02-11T14:20:40.599Z",
+  "pendingUsername": null,
+  "pendingUsernameCode": null
+}

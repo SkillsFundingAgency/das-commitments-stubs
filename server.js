@@ -55,3 +55,4 @@ require('./modules/employer-users-api/module')(app);
 require('./modules/provider-events-api/module')(app);
 require('./modules/recruit-api/module')(app);
 require('./modules/candidate-api/module')(app);
+require('./modules/faa-legacy-api/module')(app);
