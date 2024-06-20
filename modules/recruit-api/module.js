@@ -41,10 +41,12 @@ module.exports = function(app) {
         console.log("Recruit Api: Get closed vacancy " + vacancyReference);
         files.sendFile(res, '/modules/recruit-api/closed-vacancy.json');
     });
-    
-    app.post("/recruit-api/api/closedvacancies", (req, res) => {
-        
-        console.log("Recruit Api: Get closed vacancies");
-        files.sendFile(res, '/modules/recruit-api/closed-vacancies.json');
+
+    app.post("/recruit-api/api/applications/:candidateId", (req, res) => {
+        let candidateId = req.params.candidateId;
+        console.log("Recruit Api: Create application for candidate " + candidateId);
+        res.sendStatus(204); //must return a no-content response code
     });
+    
+    
 };
