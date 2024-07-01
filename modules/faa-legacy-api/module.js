@@ -37,6 +37,12 @@ module.exports = function(app) {
             files.sendFile(res, '/modules/faa-legacy-api/responses/single-successful-application.json');
             return;
         }
+
+        if(email === "test-saved-vacancy@test.com")
+        {
+            files.sendFile(res, '/modules/faa-legacy-api/responses/single-saved-vacancy.json');
+            return;
+        }
         
         files.sendFile(res, '/modules/faa-legacy-api/responses/empty.json');
     });
@@ -68,6 +74,12 @@ module.exports = function(app) {
         }
 
         if(email === "test2@test.com")
+        {
+            files.sendFile(res, '/modules/faa-legacy-api/responses/user2.json');
+            return;
+        }
+
+        if(email === "test-saved-vacancy@test.com")
         {
             files.sendFile(res, '/modules/faa-legacy-api/responses/user2.json');
             return;
