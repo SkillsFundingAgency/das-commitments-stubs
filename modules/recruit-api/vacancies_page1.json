@@ -71,7 +71,8 @@
       "wageAdditionalInformation": null,
       "wageType": "NationalMinimumWage",
       "weeklyHours": 35.0,
-      "workingWeekDescription": "Monday"
+      "workingWeekDescription": "Monday",
+      "companyBenefitsInformation": "Company benefits include a generous pension scheme and a pub lunch every Friday."
     },
     "educationLevelNumber": 2,
     "accountPublicHashedId": "VJPLGW",
@@ -82,6 +83,7 @@
     "ownerType": "Provider",
     "additionalQuestion1": null,
     "additionalQuestion2": null,
+    "additionalTrainingDescription": "This is additional training information",
     "id": "LiveVacancy_1000012284",
     "viewType": "LiveVacancy",
     "lastUpdated": "2023-11-03T11:27:14.306Z"
