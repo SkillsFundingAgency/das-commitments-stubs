@@ -14,5 +14,27 @@
   "lastLogin": "2024-01-17T22:46:36.705Z",
   "lastActivity": "2021-07-15T10:22:53.353Z",
   "pendingUsername": null,
-  "pendingUsernameCode": null
+  "pendingUsernameCode": null,
+  "registrationDetails": {
+    "firstName": "Siji",
+    "middleNames": null,
+    "lastName": "Odunlami",
+    "dateOfBirth": "2000-01-01T00:00:00Z",
+    "address": {
+      "addressLine1": "7 The Quadrant",
+      "addressLine2": null,
+      "addressLine3": "COVENTRY",
+      "addressLine4": null,
+      "postcode": "CV1 2EL",
+      "uprn": null,
+      "geoPoint": {
+        "longitude": -1.512891,
+        "latitude": 52.404899,
+        "easting": 0,
+        "northing": 0
+      },
+      "town": null,
+      "county": null
+    }
+  }
 }

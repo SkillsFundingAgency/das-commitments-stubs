@@ -3,6 +3,11 @@ const files = require('../shared/files');
 
 module.exports = function(app) {
 
+    app.get("/recruit-api/api/livevacancies/total-positions-available", (req, res) => {
+        console.log("Recruit Api: total positions available");
+        files.sendFile(res, '/modules/recruit-api/total-positions-available.json');
+    });
+    
     app.get("/recruit-api/api/livevacancies", (req, res) => {
 
         let pageNumber = req.getFromQueryString("pageNo");
@@ -39,6 +44,13 @@ module.exports = function(app) {
     app.get("/recruit-api/api/closedvacancies/:vacancyReference", (req, res) => {
         let vacancyReference = req.params.vacancyReference;
         console.log("Recruit Api: Get closed vacancy " + vacancyReference);
+        
+        if(vacancyReference == '1000000999')
+        {
+            res.sendStatus(404);
+            return;
+        }
+        
         files.sendFile(res, '/modules/recruit-api/closed-vacancy.json');
     });
 
@@ -47,6 +59,12 @@ module.exports = function(app) {
         console.log("Recruit Api: Create application for candidate " + candidateId);
         res.sendStatus(204); //must return a no-content response code
     });
-    
-    
+
+
+    app.post("/recruit-api/api/closedvacancies", (req, res) => {
+       
+        console.log("Recruit Api: Get closed vacancies");
+        files.sendFile(res, '/modules/recruit-api/closed-vacancies.json');
+    });
+
 };
