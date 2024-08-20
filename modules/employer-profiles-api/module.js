@@ -3,7 +3,6 @@ const files = require('../shared/files');
 
 module.exports = function(app) {
 
-
     app.get("/employer-profiles-api/api/users/:userId", (req, res) => {
 
         let userId = req.params.userId;

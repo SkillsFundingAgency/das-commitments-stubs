@@ -1,0 +1,18 @@
+[
+  {
+    "Address": "My address",
+    "Name": "Rapid Logistics Co Ltd",
+    "AccountLegalEntityPublicHashedId": "X9JE72",
+    "LegalEntityId": 6344082,
+    "AccountLegalEntityId": 645,
+    "HashedAccountId": "VNR6P9",
+    "Agreements": [
+      {
+        "Id": 100,
+        "Status": 2,
+        "AgreementType": 1,
+        "TemplateVersionNumber" :  100
+      }
+    ]
+  }
+]
