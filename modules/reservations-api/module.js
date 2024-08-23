@@ -41,4 +41,18 @@ module.exports = function(app) {
 
         res.json(response);
     });
+
+    app.get('/reservations-api/api/accounts/:accountId/status', (req, res) => {
+
+        let accountId = req.params.accountId;
+        console.log("Calling Account Reservation status for " +accountId );
+        files.sendFile(res, "/modules/reservations-api/" + accountId + "/accountstatus_get.json");
+    });
+
+    app.get('/reservations-api/api/accounts/:accountId/reservations', (req, res) => {
+
+        let accountId = req.params.accountId;
+        console.log("Calling Account Reservation status for " + accountId);
+        files.sendFile(res, "/modules/reservations-api/" + accountId + "/reservations_get.json");
+    });
 };
