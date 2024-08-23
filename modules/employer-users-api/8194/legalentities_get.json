@@ -1,0 +1,35 @@
+[
+  {
+    "Address": "My address",
+    "Name": "Mega Corp Pharmaceuticals",
+    "AccountLegalEntityPublicHashedId": "XEGE5X",
+    "LegalEntityId": 736281,
+    "AccountLegalEntityId": 2817,
+    "HashedAccountId": "VN48RP",
+    "Agreements": [
+      {
+        "Id": 101,
+        "Status": 2,
+        "AgreementType": 1,
+        "TemplateVersionNumber": 100
+      }
+    ]
+  },
+  {
+    "Address": "My address",
+    "Name": "Mega Corp Bank",
+    "AccountLegalEntityPublicHashedId": "XJGZ72",
+    "LegalEntityId": 372628,
+    "AccountLegalEntityId": 2818,
+    "HashedAccountId": "VN48RP",
+    "Agreements": [
+      {
+        "Id": 102,
+        "Status": 2,
+        "AgreementType": 1,
+        "TemplateVersionNumber": 100
+      }
+    ]
+  }
+
+]
