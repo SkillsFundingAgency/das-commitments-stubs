@@ -18,8 +18,10 @@ module.exports = function(app) {
     });
     
     app.get('/courses-api/api/courses/standards/:standardId', (req, res) => {
-
+        
         let standardId = req.params.standardId;
+
+        console.log("Standard request for " + standardId);
 
         let filename = __dirname + '\\standards_get.json';
         let courseData = JSON.parse(fs.readFileSync(filename, 'utf8'));

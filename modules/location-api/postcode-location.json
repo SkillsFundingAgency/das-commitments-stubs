@@ -11,7 +11,12 @@
       "coordinates": [
         51.338887,
         -2.248805
-      ]
+      ],
+      "Town": "Bromsgrove",
+      "County": "Worcestershire",
+      "Organisation": "Mega Corp",
+      "Longitude":  51.338887,
+      "Latitude": -2.248805
     },
     {
       "Uprn": "123423336956",
@@ -24,7 +29,12 @@
       "coordinates": [
         51.332887,
         -2.248805
-      ]
+      ],
+      "Town": "Bromsgrove",
+      "County": "Worcestershire",
+      "Organisation": "Mega Corp",
+      "Longitude":  51.338887,
+      "Latitude": -2.248805
     }
   ]
 }

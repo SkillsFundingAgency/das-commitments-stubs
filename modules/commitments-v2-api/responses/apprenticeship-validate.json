@@ -1,0 +1,16 @@
+{
+  "Apprenticeships": [
+    {
+      "ApprenticeshipId": 1,
+      "Uln": "7105199023",
+      "TrainingCode": "274", 
+      "StandardUId": "ST0418_1.0",
+      "StartDate": "2024-07-01",
+      "EndDate": "2026-10-01",
+      "StopDate": null,
+      "PaymentStatus" : 1,
+      "Ukprn": 10005077,
+      "EmployerName": "Mega Corp"
+    }
+  ]
+}
