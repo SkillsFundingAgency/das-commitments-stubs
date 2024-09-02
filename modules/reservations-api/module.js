@@ -41,4 +41,37 @@ module.exports = function(app) {
 
         res.json(response);
     });
+
+    app.post('/reservations-api/api/accounts/:accountId/reservations', (req, res) => {
+
+        var id = crypto.randomBytes(16).toString("hex");
+
+        console.log("Creating a Reservation Id", id);
+        var response = { Id: id };
+        console.log("Create a Reservation endpoint");
+
+        res.json(response);
+    });
+
+    app.get('/reservations-api/api/accounts/:accountId/status', (req, res) => {
+
+        let accountId = req.params.accountId;
+        let transferSenderId = req.query.transferSenderId;
+
+        if (!transferSenderId) {
+            console.log("Calling Account Reservation status for " + accountId);
+            files.sendFile(res, "/modules/reservations-api/" + accountId + "/accountstatus_get.json");
+        }
+        else {
+            console.log("Calling Account Reservation status for with transfer sender " + accountId + " and " + transferSenderId);
+            files.sendFile(res, "/modules/reservations-api/" + accountId + "/accountstatus_with_transfer_sender_get.json");
+        }
+    });
+
+    app.get('/reservations-api/api/accounts/:accountId/reservations', (req, res) => {
+
+        let accountId = req.params.accountId;
+        console.log("Calling Account Reservations list for " + accountId);
+        files.sendFile(res, "/modules/reservations-api/" + accountId + "/reservations_get.json");
+    });
 };
