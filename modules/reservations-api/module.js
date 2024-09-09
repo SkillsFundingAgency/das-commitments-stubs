@@ -47,10 +47,15 @@ module.exports = function(app) {
         var id = crypto.randomBytes(16).toString("hex");
 
         console.log("Creating a Reservation Id", id);
-        var response = { Id: id };
+        var response = { id: id };
         console.log("Create a Reservation endpoint");
 
         res.json(response);
+    });
+
+    app.delete('/reservations-api/api/reservations/:id', (req, res) => {
+        console.log("Delete a Reservation endpoint");
+        res.status(200).send({ message: 'Reservation deleted successfully' });
     });
 
     app.get('/reservations-api/api/accounts/:accountId/status', (req, res) => {
