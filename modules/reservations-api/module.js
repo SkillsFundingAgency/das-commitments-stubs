@@ -2,6 +2,7 @@
 const string = require('../shared/string');
 const files = require('../shared/files');
 const crypto = require("crypto");
+const { v4: uuidv4 } = require('uuid');
 
 module.exports = function(app) {
 
@@ -44,10 +45,10 @@ module.exports = function(app) {
 
     app.post('/reservations-api/api/accounts/:accountId/reservations', (req, res) => {
 
-        var id = crypto.randomBytes(16).toString("hex");
+        var id = uuidv4();
 
         console.log("Creating a Reservation Id", id);
-        var response = { id: id };
+        var response = { Id: id };
         console.log("Create a Reservation endpoint");
 
         res.json(response);
