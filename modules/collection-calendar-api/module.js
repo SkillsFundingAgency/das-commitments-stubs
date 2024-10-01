@@ -3,7 +3,7 @@ const files = require('../shared/files');
 
 module.exports = function(app) {
 
-    app.get("/collection-calendar-api/*", (req, res) => {
+    app.get("/collection-calendar-api/academicyears/*", (req, res) => {
 
         console.log("Get collection calendar dates ");
 
