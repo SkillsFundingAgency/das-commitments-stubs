@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a6bfc676-abeb-4fc1-a547-3738efad6cd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/modules/candidate-api/application.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/candidate-api/module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/courses-api/levels.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/courses-api/routes.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/employer-profiles-api/recruit-user-profile-response.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/recruit-api/vacancies_page1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/recruit-api/vacancies_page2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/recruit-api/vacancy.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/responses/accounts-api-v2/api/accounts/mjkldn/users_get.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/responses/accounts-api-v2/api/user/2979B22C-37AC-4A40-9119-230DAD681E0E/accounts_get.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/recruit-api/total-positions-available.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.das-commitments-stubs.dir/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.das-commitments-stubs.dir/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.das-commitments-stubs.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.das-commitments-stubs.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/courses-api/module.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/courses-api/module.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/employer-profiles-api/module.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/employer-profiles-api/module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/faa-legacy-api/module.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/faa-legacy-api/module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/faa-legacy-api/responses/user1.json" beforeDir="false" afterPath="$PROJECT_DIR$/modules/faa-legacy-api/responses/user1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/faa-legacy-api/responses/user2.json" beforeDir="false" afterPath="$PROJECT_DIR$/modules/faa-legacy-api/responses/user2.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/recruit-api/module.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/recruit-api/module.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/recruit-api/vacancies.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,6 +111,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="JSON File" />
       </list>
     </option>
   </component>
@@ -156,6 +150,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/modules/faa-legacy-api/responses/applications1.json" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -214,18 +211,16 @@
       </list>
     </option>
   </component>
-  <component name="JsFlowSettings">
-    <service-enabled>true</service-enabled>
-    <exe-path />
-    <other-services-enabled>true</other-services-enabled>
-    <auto-save>true</auto-save>
-  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectFrameBounds">
     <option name="x" value="3824" />
     <option name="y" value="-16" />
     <option name="width" value="1952" />
     <option name="height" value="1064" />
   </component>
+  <component name="ProjectId" id="2iJzvMUb4ksgl5bggu5FXHA7ytA" />
   <component name="ProjectView">
     <navigator currentView="FileSystemExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -325,36 +320,37 @@
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
-    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="10.15.3" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.server.js.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;FAI-1705-New-Faa-Fields&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\foste\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\foste\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\foste\\AppData\\Local\\Symbols\\src&quot;
+    ]
+  }
+}</component>
   <component name="RunManager">
     <configuration name="server.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -490,6 +486,13 @@
       <workItem from="1707486787278" duration="601000" />
       <workItem from="1708420103779" duration="901000" />
       <workItem from="1708514649274" duration="3332000" />
+      <workItem from="1719223700402" duration="1373000" />
+      <workItem from="1719480795644" duration="904000" />
+      <workItem from="1719845918488" duration="954000" />
+      <workItem from="1721049818926" duration="1169000" />
+      <workItem from="1721288815700" duration="2640000" />
+      <workItem from="1722408560485" duration="1052000" />
+      <workItem from="1722850941017" duration="1891000" />
     </task>
     <servers />
   </component>
@@ -566,10 +569,13 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>

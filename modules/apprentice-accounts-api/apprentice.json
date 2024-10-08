@@ -1,0 +1,9 @@
+{
+  "ApprenticeId" : "318a99ad-25e7-46af-8034-9a87042f3e97",
+  "FirstName": "Peter",
+  "LastName" : "Reynolds",
+  "Email": "chrisfoster186+peter@googlemail.com", 
+  "DateOfBirth" : "2000-09-01",
+  "TermsOfUseAccepted": true,
+  "ReacceptTermsOfUseRequired": false
+}
