@@ -4,9 +4,9 @@ const files = require('../shared/files');
 
 module.exports = function(app) {
 
-  app.get('/collection-calendar-api/academicyears/:date', (req, res) => {
+  app.get('/collection-calendar-api/academicyears/', (req, res) => {
     console.log("GET - collection-calendar-api/academicyears");
-    var date = req.params.date;
+    var date = req.query.date;
     var currentYear = parseInt(date.substring(0, 4));
     var currentMonth = parseInt(date.substring(5, 7));
 

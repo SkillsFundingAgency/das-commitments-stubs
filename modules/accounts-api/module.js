@@ -11,4 +11,11 @@ module.exports = function(app) {
         files.sendResponseFile(res, req.url, req.method);
     });
 
+    app.get('/accounts-api/*',(req, res) => {
+        files.sendResponseFile(res, req.url, req.method);
+    });
+
+    app.put('/accounts-api/*',(req, res) => {
+        files.sendResponseFile(res, req.url, req.method);
+    });
 };
