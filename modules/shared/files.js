@@ -30,6 +30,19 @@ module.exports = {
 
         res.header("Content-Type",'application/json');
         res.sendFile(path.join(root, filename));
+    },
+
+    getFileAsJson : function(url, method){
+        const filename = ("responses" + url.replace(/\/$/, '') + '_' + method + '.json').toLowerCase();
+
+        const fs = require('fs');
+        const path = require('path');
+        const process = require('process');
+        const root = process.cwd();
+
+        const data = fs.readFileSync(path.join(root, filename), 'utf8');
+        const json = JSON.parse(data);
+        return json;
     }
 };
 

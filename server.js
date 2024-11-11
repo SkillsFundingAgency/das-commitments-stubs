@@ -40,6 +40,7 @@ require('./modules/provider-account-api/module')(app);
 require('./modules/courses-api/module')(app);
 require('./modules/provider-courses-api/module')(app);
 require('./modules/levy-transfer-matching-api/module')(app);
+require('./modules/learner-data-api/module')(app);
 require('./modules/accounts-api/module')(app);
 require('./modules/collection-calendar-api/module')(app);
 require('./modules/commitments-v2-api/module')(app);
@@ -56,9 +57,9 @@ require('./modules/employer-users-api/module')(app);
 require('./modules/provider-events-api/module')(app);
 require('./modules/recruit-api/module')(app);
 require('./modules/candidate-api/module')(app);
+require('./modules/training-provider-api/module')(app);
 require('./modules/faa-legacy-api/module')(app);
 require('./modules/apim-endpoints/apprentice-feedback-api/module')(app);
-
 require('./modules/apprentice-accounts-api/module')(app);
 require('./modules/assessor-service-api/module')(app);
 require('./modules/collection-calendar-api/module')(app);
