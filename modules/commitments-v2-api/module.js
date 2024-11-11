@@ -37,4 +37,19 @@ module.exports = function(app) {
     app.get('/commitments-v2-api/api/providers/:providerId',(req, res) => {
         files.sendResponseFile(res, req.url, req.method);
     });
+
+    app.get('/commitments-v2-api/api/apprenticeships/validate', (req, res) => {
+        console.log("Commitments v2 - Get Apprenticeship Validate");
+        files.sendFile(res, '\\modules\\commitments-v2-api\\responses\\apprenticeship-validate.json');
+    });
+
+    app.get('/commitments-v2-api/api/accounts/:accountId/summary', (req, res) => {
+        console.log("Commitments v2 - Get Employer Account Summary");
+        files.sendFile(res, '\\modules\\commitments-v2-api\\responses\\employer-account-summary.json');
+    });
+
+    app.get('/commitments-v2-api/api/apprenticeships/filters', (req, res) => {
+        console.log("Commitments v2 - Get Apprenticeship Validate");
+        files.sendFile(res, '\\modules\\commitments-v2-api\\responses\\apprenticeship-filters.json');
+    });
 };

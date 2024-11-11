@@ -2,6 +2,22 @@
   {
     "localAuthorityName": "Somerset",
     "countyName": null,
+    "locationName": "B61 0UD",
+    "location": {
+      "coordinates": [
+        51.377413,
+        -2.363453
+      ]
+    },
+    "postcode": "B61 0UD",
+    "districtName": null,
+    "outcode": null,
+    "DisplayName": "Bromsgrove, Worcestershire",
+    "IncludeDistrictNameInPostcodeDisplayName": false
+  },
+  {
+    "localAuthorityName": "Somerset",
+    "countyName": null,
     "locationName": "Bath",
     "location": {
       "coordinates": [

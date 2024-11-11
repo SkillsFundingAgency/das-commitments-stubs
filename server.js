@@ -58,3 +58,8 @@ require('./modules/provider-events-api/module')(app);
 require('./modules/recruit-api/module')(app);
 require('./modules/candidate-api/module')(app);
 require('./modules/training-provider-api/module')(app);
+require('./modules/faa-legacy-api/module')(app);
+require('./modules/apim-endpoints/apprentice-feedback-api/module')(app);
+require('./modules/apprentice-accounts-api/module')(app);
+require('./modules/assessor-service-api/module')(app);
+require('./modules/collection-calendar-api/module')(app);

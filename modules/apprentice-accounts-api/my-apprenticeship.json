@@ -1,0 +1,11 @@
+{
+  "Uln": 4623751456,
+  "ApprenticeshipId": 123,
+  "EmployerName": "Mega Corp",
+  "StartDate": "2023-09-01T00:00:00",
+  "EndDate": "2025-09-01T00:00:00",
+  "TrainingProviderId": 10005027,
+  "TrainingProviderName": "Train U Good",
+  "TrainingCode": "91",
+  "StandardUId": "ST0129_1.0"
+}

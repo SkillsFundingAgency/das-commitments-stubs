@@ -1,0 +1,16 @@
+[
+  {
+    "AccountId": 8194,
+    "HashedAccountId": "VN48RP",
+    "DasAccountName": "Mega Corp",
+    "RemainingTransferAllowance": 0,
+    "Role": "Owner"
+  },
+  {
+    "AccountId": 30060,
+    "HashedAccountId": "VNR6P9",
+    "DasAccountName": "Rapid Logistics Co Ltd",
+    "RemainingTransferAllowance": 0,
+    "Role": "Owner"
+  }
+]

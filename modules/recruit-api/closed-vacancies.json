@@ -1,0 +1,120 @@
+{
+  "vacancies": [
+    {
+      "vacancyId": "fb03ef56-bdd5-4163-96dd-d812e7b6f694",
+      "applicationMethod": "ThroughFindAnApprenticeship",
+      "closingDate": "2023-10-01T00:00:00Z",
+      "description": "<ul>\r\n<li>This</li>\r\n<li>That</li>\r\n<li>The other</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>",
+      "employerDescription": "Super org with super career development guaranteed",
+      "employerLocation": {
+        "addressLine1": "White Hart House High Street",
+        "addressLine2": "Limpsfield",
+        "postcode": "RH8 0DT",
+        "latitude": 51.258114,
+        "longitude": 0.014037
+      },
+      "employerName": "DASHKAT CONSULTING LIMITED",
+      "isAnonymous": false,
+      "liveDate": "2023-06-26T15:41:56.237Z",
+      "numberOfPositions": 1,
+      "outcomeDescription": "<ul>\r\n<li>One thing</li>\r\n<li>Another</li>\r\n</ul>",
+      "programmeId": "173",
+      "programmeLevel": "Advanced",
+      "programmeType": "Standard",
+      "qualifications": [
+        {
+          "qualificationType": "GCSE or equivalent",
+          "subject": "Maths",
+          "grade": "3",
+          "weighting": "Desired"
+        }
+      ],
+      "shortDescription": "This is the blurb. This is the blurb. This is the blurb. This is the blurb. This is the blurb. This is the blurb.",
+      "skills": [
+        "Communication skills"
+      ],
+      "startDate": "2023-11-01T00:00:00Z",
+      "title": "Engineering Apprenticeship",
+      "trainingDescription": "<ul>\r\n<li>Q1</li>\r\n<li>Q2&nbsp;</li>\r\n</ul>",
+      "trainingProvider": {
+        "ukprn": 10000528,
+        "name": "BARKING AND DAGENHAM COLLEGE"
+      },
+      "vacancyReference": 1000013913,
+      "wage": {
+        "duration": 12,
+        "durationUnit": "Month",
+        "workingWeekDescription": "Work work work",
+        "weeklyHours": 40,
+        "wageType": "NationalMinimumWage"
+      },
+      "educationLevelNumber": 3,
+      "accountPublicHashedId": "MJKLDN",
+      "accountLegalEntityPublicHashedId": "XPZ8GX",
+      "vacancyType": 0,
+      "id": "ClosedVacancy_1000000005",
+      "viewType": "ClosedVacancy",
+      "lastUpdated": "2023-06-26T15:42:02.97Z",
+      "disabilityConfident": "Yes"
+    },
+    {
+      "vacancyId": "fb03ef56-bdd5-4163-96dd-d812e7b6f694",
+      "applicationMethod": "ThroughFindAnApprenticeship",
+      "closingDate": "2023-10-01T00:00:00Z",
+      "description": "An awesome opportunity that slipped by.",
+      "employerDescription": "Super org with super career development guaranteed",
+      "employerLocation": {
+        "addressLine1": "White Hart House High Street",
+        "addressLine2": "Limpsfield",
+        "postcode": "RH8 0DT",
+        "latitude": 51.258114,
+        "longitude": 0.014037
+      },
+      "employerName": "DASHKAT CONSULTING LIMITED",
+      "isAnonymous": false,
+      "liveDate": "2023-06-26T15:41:56.237Z",
+      "numberOfPositions": 1,
+      "outcomeDescription": "<ul>\r\n<li>One thing</li>\r\n<li>Another</li>\r\n</ul>",
+      "programmeId": "173",
+      "programmeLevel": "Advanced",
+      "programmeType": "Standard",
+      "qualifications": [
+        {
+          "qualificationType": "GCSE or equivalent",
+          "subject": "Maths",
+          "grade": "3",
+          "weighting": "Desired"
+        }
+      ],
+      "shortDescription": "Another great chance.",
+      "skills": [
+        "Communication skills"
+      ],
+      "startDate": "2023-11-01T00:00:00Z",
+      "title": "Engineering Apprenticeship (Now Closed)",
+      "trainingDescription": "<ul>\r\n<li>Q1</li>\r\n<li>Q2&nbsp;</li>\r\n</ul>",
+      "trainingProvider": {
+        "ukprn": 10000528,
+        "name": "BARKING AND DAGENHAM COLLEGE"
+      },
+      "vacancyReference": 1000012333,
+      "wage": {
+        "duration": 12,
+        "durationUnit": "Month",
+        "workingWeekDescription": "Work work work",
+        "weeklyHours": 40,
+        "wageType": "NationalMinimumWage"
+      },
+      "educationLevelNumber": 3,
+      "accountPublicHashedId": "MJKLDN",
+      "accountLegalEntityPublicHashedId": "XPZ8GX",
+      "vacancyType": 0,
+      "additionalQuestion1": "Demo to Jayne API Training Description the character count of your writing, simply copy and paste text into\u00A0 tool To find out the word and character count of your writing simply copy Training? Description the",
+      "additionalQuestion2": "Will question mark be added?",
+      "id": "ClosedVacancy_1000000006",
+      "viewType": "ClosedVacancy",
+      "lastUpdated": "2023-06-26T15:42:02.97Z",
+      "disabilityConfident": "Yes"
+    }
+  ]
+}
