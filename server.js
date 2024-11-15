@@ -63,3 +63,4 @@ require('./modules/apim-endpoints/apprentice-feedback-api/module')(app);
 require('./modules/apprentice-accounts-api/module')(app);
 require('./modules/assessor-service-api/module')(app);
 require('./modules/collection-calendar-api/module')(app);
+require('./modules/finance-api/module')(app);
