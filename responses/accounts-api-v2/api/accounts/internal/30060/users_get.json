@@ -5,6 +5,6 @@
 	    "Email": "chrisfoster186+test2@googlemail.com",
 	    "Role": "Owner",
 	    "CanReceiveNotifications": true,
-	    "Status": "Accepted"
+	    "Status": 1
 	}
 ]

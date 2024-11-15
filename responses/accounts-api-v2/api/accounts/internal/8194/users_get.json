@@ -5,7 +5,7 @@
 	    "Email": "chrisfoster186@googlemail.com",
 	    "Role": "Owner",
 	    "CanReceiveNotifications": true,
-	    "Status": "Accepted"
+	    "Status": 1
 	},
 	{
 		"UserRef": "c31c759e-c651-4131-a67e-f863db82365b",
@@ -13,7 +13,7 @@
 	    "Email": "chrisfoster186-auto@hotmail.com",
 	    "Role": "Owner",
 	    "CanReceiveNotifications": true,
-	    "Status": "Accepted"
+	    "Status": 1
 	},
 	{
 		"UserRef": "37e9761e-1dc9-42b7-9054-787794ad6442",
@@ -21,7 +21,7 @@
 		"Email": "chrisfoster186@googlemail.com",
 		"Role": "Owner",
 		"CanReceiveNotifications": true,
-		"Status": "Accepted"
+		"Status": 1
 	},
 	{
 		"UserRef": "9fd88d02-57c2-42b1-a128-59187402a46d",
@@ -29,6 +29,6 @@
 		"Email": "chrisfoster186+toby@googlemail.com",
 		"Role": "Viewer",
 		"CanReceiveNotifications": true,
-		"Status": "Accepted"
+		"Status": 1
 	}
 ]
