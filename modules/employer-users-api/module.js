@@ -30,4 +30,15 @@ module.exports = function(app) {
 
         files.sendFile(res, "/modules/employer-users-api/" + accountId + "/legalentities_get.json");
     });
+
+    app.get("/employer-users-api/api/accounts/:accountId", (req, res) => {
+
+        let accountId = req.params.accountId;
+
+        console.log("Get Account details for " + accountId);
+
+        files.sendFile(res, "/modules/employer-users-api/" + accountId + "/accountdetails_get.json");
+    });
+
+
 };

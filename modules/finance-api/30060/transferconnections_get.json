@@ -1,0 +1,10 @@
+{
+  "TransferConnections": [
+    {
+      "FundingEmployerAccountId": 8194,
+      "FundingEmployerHashedAccountId": "VN48RP",
+      "FundingEmployerPublicHashedAccountId": "7YRV9B",
+      "FundingEmployerAccountName": "MegaCorp"
+    }
+  ]
+}

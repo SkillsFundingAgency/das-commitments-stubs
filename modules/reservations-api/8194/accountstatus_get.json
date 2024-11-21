@@ -1,4 +1,5 @@
 {
   "CanAutoCreateReservations": true,
-  "HasReachedReservationsLimit": false
+  "HasReachedReservationsLimit": false,
+  "HasPendingReservations": true 
 }
