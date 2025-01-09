@@ -163,6 +163,8 @@ module.exports = function(app) {
                 let journeyData = req.getFromQueryString("journeydata");
                 let encodedPledgeApplicationId = req.getFromQueryString("encodedPledgeApplicationId");
                 if(encodedPledgeApplicationId === "") { encodedPledgeApplicationId = undefined; }
+                let apprenticeshipSessionKey = req.getFromQueryString("apprenticeshipSessionKey");
+                if (apprenticeshipSessionKey === "") { apprenticeshipSessionKey = undefined; }
         
                 console.log(string.format("Reservation selection for Employer: {0}, Ale: {1}", employerId, legalEntityId));
                 if(transferSenderId !== undefined)
@@ -179,7 +181,7 @@ module.exports = function(app) {
                 {
                     console.log("Simulating greenlight for levy payer - auto redirecting to add apprentice");
         
-                    let redirectUrl = string.format("{0}/{1}/unapproved/{2}?reservationId={3}&accountLegalEntityHashedId={4}{5}{6}{7}{8}&autocreated=true",
+                    let redirectUrl = string.format("{0}/{1}/unapproved/{2}?reservationId={3}&accountLegalEntityHashedId={4}{5}{6}{7}{8}{9}&autocreated=true",
                         config.employerCommitmentsBaseUrl,
                         employerId,
                         cohortRef === undefined ? "add/apprentice" : cohortRef + "/apprentices/add",
@@ -188,7 +190,8 @@ module.exports = function(app) {
                         transferSenderId === undefined ? "" : "&transferSenderId=" + transferSenderId,
                         encodedPledgeApplicationId === undefined ? "" : "&encodedPledgeApplicationId=" + encodedPledgeApplicationId,
                         providerId === undefined ? "" : "&providerId=" + providerId,
-                        journeyData === undefined ? "" : "&journeydata=" + journeyData
+                        journeyData === undefined ? "" : "&journeydata=" + journeyData,
+                        apprenticeshipSessionKey === undefined ? "" : "&apprenticeshipSessionKey=" + apprenticeshipSessionKey,
                     );
         
                     res.redirect(redirectUrl);
