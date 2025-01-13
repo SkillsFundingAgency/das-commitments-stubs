@@ -162,7 +162,9 @@ module.exports = function(app) {
                 let providerId = req.getFromQueryString("providerId");
                 let journeyData = req.getFromQueryString("journeydata");
                 let encodedPledgeApplicationId = req.getFromQueryString("encodedPledgeApplicationId");
-                if(encodedPledgeApplicationId === "") { encodedPledgeApplicationId = undefined; }
+                if (encodedPledgeApplicationId === "") { encodedPledgeApplicationId = undefined; }
+                let beforeProviderSelected = req.getFromQueryString("beforeProviderSelected");
+                if (beforeProviderSelected === "") { beforeProviderSelected = undefined; }
                 let apprenticeshipSessionKey = req.getFromQueryString("apprenticeshipSessionKey");
                 if (apprenticeshipSessionKey === "") { apprenticeshipSessionKey = undefined; }
         
@@ -207,7 +209,17 @@ module.exports = function(app) {
                 {
                     backUrl = "https://localhost:44376/" + employerId + "/unapproved/" + cohortRef;
                 }
-        
+
+                let returnAddPage = "/apprentices/add";
+                if (cohortRef === undefined) {
+                    if (beforeProviderSelected !== undefined) {
+                        returnAddPage = "add/set-reservation";
+                    }
+                    else {
+                        returnAddPage = "add/apprentice";
+                    }
+                }
+
                 //non-levy payer must select a reservation
                 let viewmodel = {
                     cohortRef: cohortRef,
@@ -218,17 +230,18 @@ module.exports = function(app) {
                             reservationSubtitle: "",
                             accountLegalEntityId: employerId,
                             reservationDescription: "",
-                            reservationUrl: string.format("{0}/{1}/unapproved/{2}?reservationId={3}&accountLegalEntityHashedId={4}&courseCode={5}&startMonthYear={6}{7}{8}",
+                            reservationUrl: string.format("{0}/{1}/unapproved/{2}?reservationId={3}&accountLegalEntityHashedId={4}&courseCode={5}&startMonthYear={6}{7}{8}{9}",
                                 config.employerCommitmentsBaseUrl,
                                 employerId,
-                                cohortRef === undefined ? "add/apprentice" : cohortRef + "/apprentices/add",
+                                cohortRef === undefined ? returnAddPage : cohortRef + "/apprentices/add",
                                 uuidv1(),
                                 legalEntityId,
                                 "244",
-                                "062019",
+                                "032025",
                                 providerId === undefined ? "" : "&providerId=" + providerId,
-                                journeyData === undefined ? "" : "&journeydata=" + journeyData
-                            )
+                                journeyData === undefined ? "" : "&journeydata=" + journeyData,
+                                apprenticeshipSessionKey === undefined ? "" : "&apprenticeshipSessionKey=" + apprenticeshipSessionKey,
+                           )
                         }
                     ]
                 };
