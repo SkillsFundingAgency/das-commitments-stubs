@@ -71,4 +71,25 @@ module.exports = function(app) {
         res.header("Content-Type", 'application/json');
         res.send(resultObject);
     });
+
+    app.get('/courses-api/ops/export', (req, res) => {
+
+        console.log("Get all Standards request");
+
+        let filename = __dirname + '\\standards_get.json';
+        let courseData = JSON.parse(fs.readFileSync(filename, 'utf8'));
+
+        let total = courseData.standards.length;
+
+        let result = courseData.standards; 
+
+        let resultObject = JSON.parse("{}");
+        resultObject.total = total;
+        resultObject.totalFiltered = result.length;
+        resultObject.standards = result;
+
+        res.header("Content-Type", 'application/json');
+        res.send(resultObject);
+    });
+
 };
