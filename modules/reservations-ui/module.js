@@ -42,7 +42,7 @@ module.exports = function(app) {
         
                 let providerId = req.params.providerId;
                 let employerId = req.params.employerId;
-                let useIlrData = req.getFromQueryString("useIlrData");
+                let useLearnerData = req.getFromQueryString("useLearnerData");
                 let cohortRef = req.getFromQueryString("cohortReference");
                 let transferSenderId = req.getFromQueryString("transferSenderId");
                 let journeyData = req.getFromQueryString("journeydata");
@@ -66,7 +66,7 @@ module.exports = function(app) {
                         employerId,
                         transferSenderId === undefined ? "" : "&transferSenderId=" + transferSenderId,
                         journeyData === undefined ? "" : "&journeydata=" + journeyData,
-                        useIlrData === undefined ? "" : "&useIlrData=" + useIlrData
+                        useLearnerData === undefined ? "" : "&useLearnerData=" + useLearnerData
                     );
         
                     res.redirect(redirectUrl);
