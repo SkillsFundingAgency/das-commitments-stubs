@@ -42,7 +42,7 @@ module.exports = function(app) {
         
                 let providerId = req.params.providerId;
                 let employerId = req.params.employerId;
-        
+                let useLearnerData = req.getFromQueryString("useLearnerData");
                 let cohortRef = req.getFromQueryString("cohortReference");
                 let transferSenderId = req.getFromQueryString("transferSenderId");
                 let journeyData = req.getFromQueryString("journeydata");
@@ -58,14 +58,15 @@ module.exports = function(app) {
                 {
                     console.log("Simulating greenlight for levy payer - auto redirecting to add apprentice");
         
-                    let redirectUrl = string.format("{0}/{1}/unapproved/{2}apprentices/add?reservationId={3}&employerAccountLegalEntityPublicHashedId={4}{5}{6}&autocreated=true",
+                    let redirectUrl = string.format("{0}/{1}/unapproved/{2}apprentices/add?reservationId={3}&employerAccountLegalEntityPublicHashedId={4}{5}{6}&autocreated=true{7}",
                         config.providerCommitmentsBaseUrl,
                         providerId,
                         cohortRef === undefined ? "" : cohortRef + "/",
                         uuidv1(),
                         employerId,
                         transferSenderId === undefined ? "" : "&transferSenderId=" + transferSenderId,
-                        journeyData === undefined ? "" : "&journeydata=" + journeyData
+                        journeyData === undefined ? "" : "&journeydata=" + journeyData,
+                        useLearnerData === undefined ? "" : "&useLearnerData=" + useLearnerData
                     );
         
                     res.redirect(redirectUrl);
