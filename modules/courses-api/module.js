@@ -33,6 +33,8 @@ module.exports = function(app) {
             return;
         }
 
+        result[0].ApprenticeshipType = "Apprenticeship";
+
         res.header("Content-Type", 'application/json');
         res.send(result[0]);
 

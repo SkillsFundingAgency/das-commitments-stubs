@@ -2,7 +2,7 @@
     {
         "ukprn": 10005077,
         "learnRefNumber": "1",
-        "uln": 9000000001,
+        "uln": 12345673,
         "familyName": "Skywalker",
         "givenNames": "Luke",
         "dateOfBirth": "1975-01-01T00:00:00",
@@ -17,35 +17,5 @@
                 "compStatus": 1
             }
         ]
-    },
-    {
-        "ukprn": 10005077,
-        "learnRefNumber": "2",
-        "uln": 9000000002,
-        "familyName": "Skywalker",
-        "givenNames": "Leia",
-        "dateOfBirth": "1975-01-01T00:00:00",
-        "niNumber": "LJ000000B",
-        "learningDeliveries": []
-    },
-    {
-        "ukprn": 10005077,
-        "learnRefNumber": "3",
-        "uln": 9000000003,
-        "familyName": "Guybrush",
-        "givenNames": "Threepwood",
-        "dateOfBirth": "1989-01-01T00:00:00",
-        "niNumber": "LJ000000C",
-        "learningDeliveries": []
-    },
-    {
-        "ukprn": 10005077,
-        "learnRefNumber": "4",
-        "uln": 9000000004,
-        "familyName": "Tentacle",
-        "givenNames": "Purple",
-        "dateOfBirth": "1993-01-01T00:00:00",
-        "niNumber": "LJ000000D",
-        "learningDeliveries": []
     }
 ]

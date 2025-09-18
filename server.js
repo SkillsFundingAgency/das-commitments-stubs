@@ -64,3 +64,4 @@ require('./modules/apprentice-accounts-api/module')(app);
 require('./modules/assessor-service-api/module')(app);
 require('./modules/collection-calendar-api/module')(app);
 require('./modules/finance-api/module')(app);
+require('./modules/courses-types-api/module')(app);

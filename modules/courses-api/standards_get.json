@@ -39534,13 +39534,13 @@
       "sectorSubjectAreaTier2Description": "ICT Practitioners",
       "apprenticeshipFunding": [
         {
-          "maxEmployerLevyCap": 18000,
+          "maxEmployerLevyCap": 30000,
           "effectiveTo": "2018-07-31T00:00:00",
           "effectiveFrom": "2017-05-01T00:00:00",
           "duration": 24
         },
         {
-          "maxEmployerLevyCap": 18000,
+          "maxEmployerLevyCap": 30000,
           "effectiveTo": null,
           "effectiveFrom": "2018-08-01T00:00:00",
           "duration": 24
