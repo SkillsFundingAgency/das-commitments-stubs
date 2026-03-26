@@ -17,6 +17,16 @@ module.exports = function(app) {
 
     });
     
+    app.get('/courses-api/api/courses/lookup/:id', (req, res) => {
+
+        let id = req.params.id;
+
+        console.log("Course lookup request for " + id);
+
+        files.sendFile(res, '/modules/courses-api/lookup_get.json');
+
+    });
+
     app.get('/courses-api/api/courses/standards/:standardId', (req, res) => {
         
         let standardId = req.params.standardId;

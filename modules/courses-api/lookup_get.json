@@ -1,0 +1,191 @@
+{
+  "standardUId": "SC0001_1.0",
+  "ifateReferenceNumber": "SC0001",
+  "larsCode": "ZSC00001",
+  "status": "Approved for delivery",
+  "searchScore": null,
+  "title": "Digital Apprenticeship unit",
+  "level": 3,
+  "coronationEmblem": false,
+  "version": "1.0",
+  "overviewOfRole": "digital and technology",
+  "keywords": "software|computers|software development|coding|tech|IT|technology",
+  "route": "Digital",
+  "routeCode": 7,
+  "assessmentPlanUrl": null,
+  "trailBlazerContact": null,
+  "typicalJobTitles": "Software Engineer|Software Developer|Network Engineer",
+  "skills": [
+    "Initiate, design, code, test and debug a software component for a digital and technology solution.",
+    "Apply relevant standard processes, methods, techniques and tools. For example, ISO Standards, Waterfall, Agile in a digital and technology solution project.",
+    "Work effectively within teams, leading on appropriate digital technology solution activities.",
+    "Apply relevant security and resilience techniques to a digital and technology solution. For example, risk assessments, mitigation strategies.",
+    "Initiate, design, implement and debug a data product for a digital and technology solution."
+  ],
+  "ksbs": [
+    {
+      "id": "08eeb79e-a0ae-4c94-b473-73b6a56cefc1",
+      "type": "Skill",
+      "description": "Initiate, design, code, test and debug a software component for a digital and technology solution."
+    },
+    {
+      "id": "b4c45754-b23a-4307-b9dd-3545fa9dcc29",
+      "type": "Skill",
+      "description": "Apply relevant standard processes, methods, techniques and tools. For example, ISO Standards, Waterfall, Agile in a digital and technology solution project."
+    },
+    {
+      "id": "1fff45b4-5144-4748-88ea-b72c3e2f9b40",
+      "type": "Skill",
+      "description": "Work effectively within teams, leading on appropriate digital technology solution activities."
+    },
+    {
+      "id": "b96debe4-02c2-42b2-9e1c-f27b8eed8a20",
+      "type": "Skill",
+      "description": "Apply relevant security and resilience techniques to a digital and technology solution. For example, risk assessments, mitigation strategies."
+    },
+    {
+      "id": "8512a9ce-a3aa-472f-96ed-d2cbd2a54e2f",
+      "type": "Skill",
+      "description": "Initiate, design, implement and debug a data product for a digital and technology solution."
+    },
+    {
+      "id": "1c116934-9561-41a0-90cc-7eb1772b2f52",
+      "type": "Knowledge",
+      "description": "How organisations adapt and exploit digital technology solutions."
+    },
+    {
+      "id": "04ef5623-68c9-4b47-b3fc-71df23d2ca34",
+      "type": "Knowledge",
+      "description": "A range of digital technology solution development techniques and tools."
+    },
+    {
+      "id": "15efdd3b-8156-403f-876b-eb483b573d3d",
+      "type": "Knowledge",
+      "description": "The approaches and techniques used throughout the digital and technology solution lifecycle."
+    },
+    {
+      "id": "70adf9c8-7c5f-49dc-8011-07c0892c97b6",
+      "type": "Knowledge",
+      "description": "How teams work effectively to produce digital and technology solutions."
+    },
+    {
+      "id": "a5fa9e26-f3f8-476c-a12c-d613f80b0559",
+      "type": "Knowledge",
+      "description": "The nature and scope of common vulnerabilities in digital and technology solutions. For example, the risks of unsecure coding and unprotected networks."
+    },
+    {
+      "id": "a34bf5f4-9ff1-4174-a6e6-1f0efac31e62",
+      "type": "Knowledge",
+      "description": "The role of data management systems within Digital and Technology Solutions."
+    },
+    {
+      "id": "a2819da5-ae11-4378-925d-aab1306b6731",
+      "type": "Knowledge",
+      "description": "Fundamental computer networking concepts in relation to digital and technology solutions."
+    },
+    {
+      "id": "251a7ce6-c01c-4d54-a9e1-ada07823d3f6",
+      "type": "Knowledge",
+      "description": "How to operate at all stages of the software development life cycle. For example, requirements analysis, design, development, testing, implementation."
+    },
+    {
+      "id": "d7bae810-b1e8-4090-93db-40759beaf283",
+      "type": "Knowledge",
+      "description": "How to select and apply a range of software tools used in Software Engineering."
+    },
+    {
+      "id": "99166c95-25cc-44f4-8489-806e9e59ce79",
+      "type": "Knowledge",
+      "description": "Principles of cyber security tools and techniques."
+    },
+    {
+      "id": "59ff82c8-f968-4c0e-83d6-f4dc73a35b29",
+      "type": "Knowledge",
+      "description": "Concepts and approaches to cyber security."
+    },
+    {
+      "id": "a0387f7f-2d25-4c71-972d-85789c82f107",
+      "type": "Knowledge",
+      "description": "Principles of common security architectures and methodologies."
+    },
+    {
+      "id": "f95034d5-4ee7-442c-8576-bb39cc622fc0",
+      "type": "Knowledge",
+      "description": "Data formats, structures, architectures and data delivery methods including \"unstructured\" data."
+    },
+    {
+      "id": "09cf30cf-3795-4d70-beb8-c7cd39a7e425",
+      "type": "Knowledge",
+      "description": "Sources of data such as files, operational systems, databases, web services, open data, government data, news and social media."
+    }
+  ],
+  "standardPageUrl": "https://skillsengland.education.gov.uk/api/apprenticeshipunits/SC0001-v1-0",
+  "integratedDegree": null,
+  "sectorSubjectAreaTier2": null,
+  "sectorSubjectAreaTier2Description": null,
+  "sectorSubjectAreaTier1": null,
+  "sectorSubjectAreaTier1Description": null,
+  "apprenticeshipFunding": [
+    {
+      "maxEmployerLevyCap": 3000,
+      "effectiveTo": "2027-07-31T00:00:00",
+      "effectiveFrom": "2026-08-01T00:00:00",
+      "duration": 100,
+      "durationUnit": "Hours",
+      "incentive1618": null,
+      "providerAdditionalPayment1618": null,
+      "employerAdditionalPayment1618": null,
+      "careLeaverAdditionalPayment": null,
+      "foundationAppFirstEmpPayment": null,
+      "foundationAppSecondEmpPayment": null,
+      "foundationAppThirdEmpPayment": null
+    },
+    {
+      "maxEmployerLevyCap": 5000,
+      "effectiveTo": null,
+      "effectiveFrom": "2027-08-01T00:00:00",
+      "duration": 100,
+      "durationUnit": "Hours",
+      "incentive1618": null,
+      "providerAdditionalPayment1618": null,
+      "employerAdditionalPayment1618": null,
+      "careLeaverAdditionalPayment": null,
+      "foundationAppFirstEmpPayment": null,
+      "foundationAppSecondEmpPayment": null,
+      "foundationAppThirdEmpPayment": null
+    }
+  ],
+  "standardDates": {
+    "lastDateStarts": null,
+    "effectiveTo": null,
+    "effectiveFrom": "2026-08-01T00:00:00"
+  },
+  "versionDetail": {
+    "earliestStartDate": "2026-08-01T00:00:00",
+    "latestStartDate": null,
+    "latestEndDate": null,
+    "approvedForDelivery": "2025-11-11T00:00:00",
+    "proposedTypicalDuration": 100,
+    "proposedMaxFunding": 2500,
+    "proposedDurationUnits": "Hours"
+  },
+  "eqaProvider": [],
+  "otherBodyApprovalRequired": false,
+  "approvalBody": "",
+  "duties": [],
+  "coreAndOptions": false,
+  "coreDuties": [],
+  "integratedApprenticeship": null,
+  "options": [],
+  "sectorCode": null,
+  "epaChanged": null,
+  "versionMajor": 1,
+  "versionMinor": 0,
+  "epaoMustBeApprovedByRegulatorBody": null,
+  "isRegulatedForProvider": false,
+  "isRegulatedForEPAO": null,
+  "learningType": "ApprenticeshipUnit",
+  "courseType": "ShortCourse",
+  "apprenticeshipStandardTypeCode": null,
+  "relatedOccupations": []
+}
