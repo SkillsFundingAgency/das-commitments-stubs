@@ -28,6 +28,9 @@ _A single service encompassing multiple stubs for use by Commitments and related
     * Get Pledge Application
  * Provider relationships
     * Get relationships by provider id
+* SLD Data API (`/sld-data-api`)
+    * Get English & Maths value: `GET /sld-data-api/api/lars/get-em-value/{learnAimRef}/{startDate}`
+      (default `1000`; `learnAimRef` of `400`/`404`/`500` returns that status with a string body; `DECIMAL` returns `1234.56`)
 
 ## Getting started
 

@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0ac0ae1-01be-41b0-b5ac-afe9a6e8ae9d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.das-commitments-stubs.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.das-commitments-stubs.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/courses-api/module.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/courses-api/module.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/courses-api/standards_get.json" beforeDir="false" afterPath="$PROJECT_DIR$/modules/courses-api/standards_get.json" afterDir="false" />
-    </list>
+    <list default="true" id="f0ac0ae1-01be-41b0-b5ac-afe9a6e8ae9d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;FLP-1530-Courses-Api-Lookup&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;FLP-1281-English-and-Maths-Price&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -73,6 +69,7 @@
       <workItem from="1779778179863" duration="2380000" />
       <workItem from="1781684009920" duration="2011000" />
       <workItem from="1790190937145" duration="48000" />
+      <workItem from="1790671838365" duration="90000" />
     </task>
     <servers />
   </component>
