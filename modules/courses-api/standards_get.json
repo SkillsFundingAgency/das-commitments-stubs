@@ -13685,6 +13685,47 @@
       "sectorCode": 72
     },
     {
+      "standardUId": "ST0785_1.0",
+      "ifateReferenceNumber": "ST0785",
+      "larsCode": 785,
+      "status": "Approved for delivery",
+      "searchScore": null,
+      "title": "Standard 785 (test stub)",
+      "level": 6,
+      "version": "1.0",
+      "overviewOfRole": "Stub standard added for MO testing (UKPRN 10001134, ULN 9002200209).",
+      "keywords": "",
+      "route": "",
+      "typicalJobTitles": "",
+      "skills": [],
+      "knowledge": [],
+      "behaviours": [],
+      "standardPageUrl": "",
+      "integratedDegree": "",
+      "sectorSubjectAreaTier2": 0,
+      "sectorSubjectAreaTier2Description": "",
+      "apprenticeshipFunding": [
+        {
+          "maxEmployerLevyCap": 12000,
+          "effectiveTo": null,
+          "effectiveFrom": "2019-04-03T00:00:00",
+          "duration": 24
+        }
+      ],
+      "standardDates": {
+        "lastDateStarts": null,
+        "effectiveTo": null,
+        "effectiveFrom": "2019-04-03T00:00:00"
+      },
+      "otherBodyApprovalRequired": false,
+      "approvalBody": "",
+      "duties": [],
+      "coreAndOptions": false,
+      "coreDuties": [],
+      "integratedApprenticeship": false,
+      "sectorCode": 0
+    },
+    {
       "standardUId": "ST0551_1.0",
       "ifateReferenceNumber": "ST0551",
       "larsCode": 655,
@@ -18892,19 +18933,19 @@
       "sectorSubjectAreaTier2Description": "Agriculture",
       "apprenticeshipFunding": [
         {
-          "maxEmployerLevyCap": 6000,
+          "maxEmployerLevyCap": 50000,
           "effectiveTo": "2018-07-31T00:00:00",
           "effectiveFrom": "2017-05-01T00:00:00",
           "duration": 24
         },
         {
-          "maxEmployerLevyCap": 6000,
+          "maxEmployerLevyCap": 60000,
           "effectiveTo": "2023-10-31T00:00:00",
           "effectiveFrom": "2018-08-01T00:00:00",
           "duration": 24
         },
         {
-          "maxEmployerLevyCap": 8000,
+          "maxEmployerLevyCap": 50000,
           "effectiveTo": null,
           "effectiveFrom": "2023-11-01T00:00:00",
           "duration": 24
@@ -45660,6 +45701,129 @@
       "coreDuties": [],
       "integratedApprenticeship": false,
       "sectorCode": 16
+    },
+    {
+      "standardUId": "ST0801_1.0",
+      "ifateReferenceNumber": "ST0801",
+      "larsCode": 801,
+      "status": "Approved for delivery",
+      "searchScore": null,
+      "title": "Test standard 801 (stub)",
+      "level": 3,
+      "version": "1.0",
+      "overviewOfRole": "Test standard added for local stub coverage.",
+      "keywords": "",
+      "route": "",
+      "typicalJobTitles": "",
+      "skills": [],
+      "knowledge": [],
+      "behaviours": [],
+      "standardPageUrl": "",
+      "integratedDegree": "",
+      "sectorSubjectAreaTier2": 0,
+      "sectorSubjectAreaTier2Description": "",
+      "apprenticeshipFunding": [
+        {
+          "maxEmployerLevyCap": 6000,
+          "effectiveTo": null,
+          "effectiveFrom": "2018-08-01T00:00:00",
+          "duration": 12
+        }
+      ],
+      "standardDates": {
+        "lastDateStarts": null,
+        "effectiveTo": null,
+        "effectiveFrom": "2018-08-01T00:00:00"
+      },
+      "otherBodyApprovalRequired": false,
+      "approvalBody": "",
+      "duties": [],
+      "coreAndOptions": false,
+      "coreDuties": [],
+      "integratedApprenticeship": false,
+      "sectorCode": 0
+    },
+    {
+      "standardUId": "ST0801_1.0",
+      "ifateReferenceNumber": "ST0801",
+      "larsCode": 804,
+      "status": "Approved for delivery",
+      "searchScore": null,
+      "title": "Test standard 804 (stub)",
+      "level": 3,
+      "version": "1.0",
+      "overviewOfRole": "Test standard added for local stub coverage.",
+      "keywords": "",
+      "route": "",
+      "typicalJobTitles": "",
+      "skills": [],
+      "knowledge": [],
+      "behaviours": [],
+      "standardPageUrl": "",
+      "integratedDegree": "",
+      "sectorSubjectAreaTier2": 0,
+      "sectorSubjectAreaTier2Description": "",
+      "apprenticeshipFunding": [
+        {
+          "maxEmployerLevyCap": 6000,
+          "effectiveTo": null,
+          "effectiveFrom": "2018-08-01T00:00:00",
+          "duration": 12
+        }
+      ],
+      "standardDates": {
+        "lastDateStarts": null,
+        "effectiveTo": null,
+        "effectiveFrom": "2018-08-01T00:00:00"
+      },
+      "otherBodyApprovalRequired": false,
+      "approvalBody": "",
+      "duties": [],
+      "coreAndOptions": false,
+      "coreDuties": [],
+      "integratedApprenticeship": false,
+      "sectorCode": 0
+    },
+    {
+      "standardUId": "ST0737_1.0",
+      "ifateReferenceNumber": "ST0737",
+      "larsCode": 737,
+      "status": "Approved for delivery",
+      "searchScore": null,
+      "title": "Test standard 737 (stub)",
+      "level": 3,
+      "version": "1.0",
+      "overviewOfRole": "Test standard added for local stub coverage.",
+      "keywords": "",
+      "route": "",
+      "typicalJobTitles": "",
+      "skills": [],
+      "knowledge": [],
+      "behaviours": [],
+      "standardPageUrl": "",
+      "integratedDegree": "",
+      "sectorSubjectAreaTier2": 0,
+      "sectorSubjectAreaTier2Description": "",
+      "apprenticeshipFunding": [
+        {
+          "maxEmployerLevyCap": 6000,
+          "effectiveTo": null,
+          "effectiveFrom": "2018-08-01T00:00:00",
+          "duration": 12
+        }
+      ],
+      "standardDates": {
+        "lastDateStarts": null,
+        "effectiveTo": null,
+        "effectiveFrom": "2018-08-01T00:00:00"
+      },
+      "otherBodyApprovalRequired": false,
+      "approvalBody": "",
+      "duties": [],
+      "coreAndOptions": false,
+      "coreDuties": [],
+      "integratedApprenticeship": false,
+      "sectorCode": 0
     }
   ]
 }

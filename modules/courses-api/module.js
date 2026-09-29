@@ -22,6 +22,27 @@ module.exports = function(app) {
         let id = req.params.id;
 
         console.log("Course lookup request for " + id);
+        
+        if(id === "ZSC00404")
+        {
+            return res.sendStatus(404);
+        }
+
+        if(id === "ZSC00500")
+        {
+            return res.sendStatus(500);
+        }
+
+        const failureRate = parseFloat(process.env.COURSES_LOOKUP_FAILURE_RATE || '0');
+        if (failureRate > 0 && Math.random() < failureRate) {
+            console.log(`Course lookup: simulated 500 for ${id}`);
+            return res.sendStatus(500);
+        }
+
+        if(id === "ZSC00002")
+        {
+            return files.sendFile(res, '/modules/courses-api/lookup_get_zsc00002.json');
+        }
 
         files.sendFile(res, '/modules/courses-api/lookup_get.json');
 
