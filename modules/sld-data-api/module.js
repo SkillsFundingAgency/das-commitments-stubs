@@ -1,6 +1,6 @@
 /* SLD Data Api (DC SLDDataApi Api) - FLP-1281
  *
- * GET /sld-data-api/api/lars/get-em-value/{learnAimRef}/{startDate}
+ * GET /sld-data-api/api/v1.0/lars/get-em-value/{learnAimRef}/{startDate}
  *
  * 200 -> bare JSON number (the English & Maths course value)
  * 400 / 404 / 500 -> JSON string body (error message)
@@ -18,7 +18,7 @@ const DECIMAL_VALUE = 1234.56;
 
 module.exports = function(app) {
 
-    app.get('/sld-data-api/api/lars/get-em-value/:learnAimRef/:startDate', (req, res) => {
+    app.get('/sld-data-api/api/v1.0/lars/get-em-value/:learnAimRef/:startDate', (req, res) => {
 
         const learnAimRef = req.params.learnAimRef;
         const startDate = req.params.startDate;
